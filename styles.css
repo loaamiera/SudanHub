@@ -1,0 +1,110 @@
+h1,h2,h3{
+    text-align: center ;
+    float: center ;
+    margin: auto ;
+}
+
+.column{
+    display: inline-flex ;
+    flex-direction: column ; 
+    margin: auto ;
+    text-align: center ;
+    float: center ;
+}
+
+footer{
+    background-color: black ;
+    color: white ;
+    float: bottom ;
+}
+
+p{
+    max-width: 75% ;
+}
+
+.largeImage{
+    width: 50% ; 
+}
+
+li{
+
+}
+.button{
+        border: solid ;
+        border-width: 4px ;
+        padding: 2px ;
+        border-color: darkred;
+}
+
+a{
+        text-decoration: none ;
+        font-style: none ;
+    }
+
+.grid{
+        display : grid;
+        grid-template-columns: 70% 30% 40% 60% 70% 30% 20% 80% 75%;
+        grid-template-rows: 10% 25% 25% 10% 30% ;
+}
+
+.topLeft{
+    grid-column: 1;
+    grid-row: 1 ;
+}
+
+.topRight{
+    grid-column: 2;
+    grid-row: 1 ;
+}
+
+.secondLeft{
+    grid-column: 3;
+    grid-row: 2 ;
+}
+
+.secondRight{
+    grid-column: 4;
+    grid-row: 2 ;
+}
+
+.middleLeft{
+    grid-column: 5;
+    grid-row: 3 ;
+}
+
+.middleRight{
+    grid-column: 6 ;
+    grid-row: 3 ;
+}
+
+.bottomLeft{
+    grid-column: 7;
+    grid-row: 4 ;
+}
+
+.bottomRight{
+    grid-column: 8;
+    grid-row: 4 ;
+}
+
+.bottomBold{
+    grid-column: 9;
+    grid-row: 5 ;
+    text-decoration: bold ;
+}
+
+.left{
+    display: inline-flex ;
+    flex-direction: column ;
+    float: left ;
+    width: 45% ;
+}
+.right{
+    display: inline-flex ;
+    flex-direction: column ;
+    float: right ;
+    width: 45% ;
+}
+.large{
+    font-size: 50em ;
+}
