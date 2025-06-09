@@ -1,6 +1,4 @@
-main{
-        padding-bottom: 1% ;
-}
+
 h1,h2,h3{
     display: inline-flex ;
     flex-direction: column ;
@@ -25,6 +23,7 @@ header{
     text-align: center ;
     float: center ;
     justify: center ;
+    padding-bottom: 1% ;
 }
 
 footer{
