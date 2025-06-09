@@ -1,9 +1,7 @@
 html{
     overflow: auto ;
 }
-h1 {
-    color: red ;
-}
+
 .grid{
     display: grid ;
     grid-template-columns: 60% 40% ;
@@ -15,6 +13,18 @@ h1 {
         align-items: horizontal ;
         }
 header{
+        nav{
+        .button{
+            border: solid ;
+            border-width: 4px ;
+            padding: 2px ;
+            margin-bottom: 2%  !important;
+            border-color: darkred;
+            }
+        }
+        h1{
+            color: red ;
+        }
         .leftHead{
         grid-column: 1 ;
         }
@@ -122,15 +132,7 @@ ul{
 }
     }
 }
-nav{
-    .button{
-        border: solid ;
-        border-width: 4px ;
-        padding: 2px ;
-        margin-bottom: 2%  !important;
-        border-color: darkred;
-    }
-}
+
 
 .video{
     width: 50% ;
