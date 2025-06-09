@@ -10,7 +10,6 @@ html{
 .headgrid{
         display: grid ;
         grid-template-columns: 40%  20%  40% ;
-        align-items: horizontal ;
         }
 header{
         nav{
