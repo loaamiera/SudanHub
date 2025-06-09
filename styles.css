@@ -21,7 +21,20 @@ header{
         nav{
             float: right !important ;
         }
-    
+        .headgrid{
+        display: grid ;
+        grid-template-columns: 25%  50%  25% ;
+        }
+
+        .leftHead{
+        grid-column: 1 ;
+        }
+        .middleHead{
+        grid-column: 2 ;
+        }
+        .rightHead{
+        grid-column: 3 ;
+        }
 }
 
 p{
