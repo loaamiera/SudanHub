@@ -1,14 +1,14 @@
 h1,h2,h3{
     display: inline-flex ;
     flex-direction: column ;
-    float: center ;
-    text-align: center ;
-    justify-content: center;
-    margin-left: auto ;
-    margin-right: auto ;
-    margin-top: auto ;
-    margin-bottom: 2% ;
     color: red ;
+}
+
+header{
+        text-align: center ;
+        margin: auto ;
+        float: center;
+        justify-content: center;
 }
 
 .column{
