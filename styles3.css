@@ -72,9 +72,13 @@ footer{
     display: inline-flex ;
     flex-direction: column ;
     float: right ;
-    Mmargin-right: 2% ;
+    margin-right: 2% ;
     width: 40% ;
 }
+
+.bottom{
+    text-align: center ;
+    }
 
 
 .largeImage{
