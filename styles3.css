@@ -1,9 +1,6 @@
 html{
     overflow: auto ;
 }
-h1 {
-    color: red ;
-}
 
 
 main{
@@ -14,21 +11,34 @@ main{
             display: grid ;
             grid-template-columns: auto  auto  auto ;
             grid-template-rows: auto; 
+            justify-items: center ;
     
     }
 header{
         margin: auto ;
         justify-content: center ;
-            .leftHead{
+        h1 {
+        color: red ;
+        }
+        nav{
+        .button{
+            border: solid ;
+            border-width: 4px ;
+            padding: 2px ;
+            margin-bottom: 2%  !important;
+            border-color: darkred;
+            }
+        }
+        .leftHead{
             grid-column: 1 ;
             grid-row: 1 ;
             }
-            .middleHead{
+        .middleHead{
             grid-column: 2 ;
             grid-row: 1 ;
             width: 5% ;
             }
-            .rightHead{
+        .rightHead{
             grid-column: 3 ;
             grid-row: 1 ;
             }
@@ -82,7 +92,7 @@ footer{
     width: 33% ; 
     margin-left: auto ;
     margin-right: auto ;
-    margin-bottom: 15%  !important;
+    margin-bottom: 33%  !important;
     display: inline-block ;
 }
 
@@ -110,9 +120,6 @@ ul{
         border-color: darkred;
 }
     }
-}
-nav{
-    margin: auto ;
 }
 
 .largeText{
