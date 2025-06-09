@@ -16,6 +16,10 @@ header{
     
 }
 
+p{
+    max-width: 75% ;
+}
+
 .column{
     display: inline-flex ;
     flex-direction: column ; 
@@ -133,3 +137,4 @@ nav{
 .large{
     font-size: 50em ;
 }
+
