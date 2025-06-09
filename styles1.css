@@ -94,7 +94,10 @@ nav{
     display: inline-block ;
 }
 
-
+.large{
+    font-size: 5em ;
+    color: green ;
+    }
 
 
 .column{
