@@ -2,14 +2,14 @@ html{
     overflow: auto ;
 }
 h1,h2,h3{
-    display: inline-flex ;
-    flex-direction: column ;
     margin-bottom: 2% !important;
     color: red ;
 }
 main{
     display: inline-flex ;
     flex-direction: column ;
+    margin-left: auto ;
+    margin-right: auto ;
 }
     
 
