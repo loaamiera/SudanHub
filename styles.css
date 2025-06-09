@@ -6,10 +6,27 @@ h1,h2,h3{
     color: red ;
 }
 
+
 main{
-    margin: auto ; }
+    margin: auto ;
+    .column{
+        display: inline-flex ;
+        flex-direction: column ; 
+        margin: auto ;
+        text-align: center !important ;
+        float: center !important ;
+        justify-content: center ;
+    }}
 
 header{
+        .column{
+        display: inline-flex ;
+        flex-direction: column ; 
+        margin: auto ;
+        text-align: center !important ;
+        float: center !important ;
+        justify-content: center ;
+        }
         .headgrid{
         display: grid ;
         grid-template-columns: 25%  50%  25% ;
@@ -31,14 +48,7 @@ p{
     margin-bottom: 2%  !important;
 }
 
-.column{
-    display: inline-flex ;
-    flex-direction: column ; 
-    margin: auto ;
-    text-align: center !important ;
-    float: center !important ;
-    justify-content: center ;
-}
+
 
 footer{
     background-color: black ;
