@@ -12,7 +12,7 @@ main{
     .column{
         display: inline-flex ;
         flex-direction: column ; 
-        margin: auto ;
+        margin: auto !important ;
         text-align: center !important ;
         float: center !important ;
         justify-content: center ;
