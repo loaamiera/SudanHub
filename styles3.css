@@ -15,12 +15,7 @@ main{
     margin-left: auto ;
     margin-right: auto ;
     }
-
-header{
-        margin: auto ;
-        text-align: center !important ;
-        justify-content: center ;
-        .headgGrid{
+.headgGrid{
             display: grid ;
             grid-template-columns: auto  auto  auto ;
             grid-template-rows: auto; 
@@ -39,6 +34,11 @@ header{
             grid-column: 3 ;
             grid-row: 1 ;
             }
+    }
+header{
+        margin: auto ;
+        text-align: center !important ;
+        justify-content: center ;
 }
 
 
