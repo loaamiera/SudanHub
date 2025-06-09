@@ -66,13 +66,15 @@ footer{
     display: inline-flex ;
     flex-direction: column ;
     float: left ;
-    width: 45% ;
+    width: 40% ;
+    margin-left: 2% ;
 }
 .right{
     display: inline-flex ;
     flex-direction: column ;
     float: right ;
-    width: 45% ;
+    Mmargin-right: 2% ;
+    width: 40% ;
 }
 
 
