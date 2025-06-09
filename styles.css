@@ -1,4 +1,6 @@
-
+html{
+    overflow: auto ;
+}
 h1,h2,h3{
     display: inline-flex ;
     flex-direction: column ;
@@ -83,7 +85,7 @@ nav{
 .video{
     margin-bottom: 2.5% ;
     margin-top: 2.5% ;
-
+}
 
 
 .grid{
