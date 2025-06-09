@@ -9,7 +9,7 @@ html{
     row-gap: 2% ;}
 .headgrid{
         display: grid ;
-        grid-template-columns: 40%  20%  40% ;
+        grid-template-columns: auto  auto  auto ;
         }
 header{
         nav{
