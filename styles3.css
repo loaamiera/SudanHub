@@ -92,6 +92,14 @@ footer{
     display: inline-block ;
 }
 
+.largerImage{
+    width: 20 ; 
+    margin-left: auto ;
+    margin-right: auto ;
+    margin-top: 25%  !important;
+    display: inline-block ;
+}
+
 a{
         text-decoration: none ;
         font-style: none ;
