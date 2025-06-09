@@ -82,6 +82,8 @@ ul{
     li a:hover{color: rgb(18, 177, 216) ; }
     li{
         margin-bottom: 2%  !important;
+        margin-left: 1% ; 
+        margin-right: 1% ;
         .button{
         border: solid ;
         border-width: 4px ;
