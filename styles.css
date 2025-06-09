@@ -1,9 +1,13 @@
 h1,h2,h3{
     display: inline-flex ;
     flex-direction: column ;
-    text-align: center ;
     float: center ;
-    margin: auto ;
+    text-align: center ;
+    justify-content: center;
+    margin-left: auto ;
+    margin-right: auto ;
+    margin-top: auto ;
+    margin-bottom: 2% ;
     color: red ;
 }
 
