@@ -33,6 +33,19 @@ header{
             justify-items: center ;
     
             }
+                .leftHead{
+            grid-column: 1 ;
+            grid-row: 1 ;
+            }
+            .middleHead{
+            grid-column: 2 ;
+            grid-row: 1 ;
+            width: 5% ;
+            }
+            .rightHead{
+            grid-column: 3 ;
+            grid-row: 1 ;
+            }
 }
 
 p{
