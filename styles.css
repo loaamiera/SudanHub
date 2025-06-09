@@ -10,10 +10,6 @@ main{
     margin: auto ; }
 
 header{
-        text-align: center ;
-        margin: auto ;
-        float: center;
-        justify-content: center;
         nav{
             float: right !important ;
         }
@@ -42,8 +38,8 @@ p{
     display: inline-flex ;
     flex-direction: column ; 
     margin: auto ;
-    text-align: center ;
-    float: center ;
+    text-align: center !important ;
+    float: center !important ;
     justify-content: center ;
 }
 
