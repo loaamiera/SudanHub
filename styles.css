@@ -1,4 +1,6 @@
 h1,h2,h3{
+    display: inline-flex ;
+    flex-direction: column ;
     text-align: center ;
     float: center ;
     margin: auto ;
@@ -10,6 +12,7 @@ h1,h2,h3{
     margin: auto ;
     text-align: center ;
     float: center ;
+    justify: center ;
 }
 
 footer{
@@ -42,7 +45,7 @@ a{
     }
 
 .grid{
-        display : grid;
+        display : grid ;
         grid-template-columns: 70% 30% 40% 60% 70% 30% 20% 80% 75%;
         grid-template-rows: 10% 25% 25% 10% 30% ;
 }
