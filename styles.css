@@ -6,7 +6,8 @@ h1,h2,h3{
     color: red ;
 }
 
-    
+main{
+    margin: auto ; }
 
 header{
         text-align: center ;
