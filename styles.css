@@ -54,6 +54,8 @@ a{
     }
 
 ul{
+    display: inline-flex ;
+    flex-direction: row ;
     list-style-type: none;
     li a:link {color: black ;}
     li a:visited {color: rgb(255,248,30) ;}
