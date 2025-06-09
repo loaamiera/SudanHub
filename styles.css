@@ -30,6 +30,10 @@ footer{
 
 .largeImage{
     width: 33% ; 
+    margin-left: auto ;
+    margin-right: auto ;
+    margin-top: auto ;
+    margin-bottom: 2% ;
 }
 
 a{
