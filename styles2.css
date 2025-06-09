@@ -7,7 +7,7 @@ h1,h2,h3{
     color: red ;
 }
 .grid{
-    grid-template-columns: 70% 30% 40% 60% 70% 30% 20% 80% 75% ;
+    grid-template-columns: 60% 30% ;
     grid-template-rows: 10% 25% 25% 10% 30% ; }
 .headgrid{
         display: grid ;
@@ -41,37 +41,38 @@ main{
 }
 
 .secondLeft{
-    grid-column: 3;
+    grid-column: 1;
     grid-row: 2 ;
 }
 
 .secondRight{
-    grid-column: 4;
+    grid-column: 2;
     grid-row: 2 ;
 }
 
 .middleLeft{
-    grid-column: 5;
+    grid-column: 1;
     grid-row: 3 ;
 }
 
 .middleRight{
-    grid-column: 6 ;
+    grid-column: 2 ;
     grid-row: 3 ;
 }
 
 .bottomLeft{
-    grid-column: 7;
+    grid-column: 1;
     grid-row: 4 ;
 }
 
 .bottomRight{
-    grid-column: 8;
+    grid-column: 2;
     grid-row: 4 ;
 }
 
 .bottomBold{
-    grid-column: 9;
+    grid-column-start: 1;
+    grid-column-end: 2 ;
     grid-row: 5 ;
     text-decoration: bold ;
     }
