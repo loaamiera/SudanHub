@@ -45,7 +45,7 @@ main{
 .topRight{
     grid-column: 2;
     grid-row: 1 ;
-    width: 10% ;
+    width: 15% ;
 }
 
 .secondLeft{
@@ -71,7 +71,7 @@ main{
 .bottomLeft{
     grid-column: 1;
     grid-row: 4 ;
-    width: 15% ;
+    width: 20% ;
 }
 
 .bottomRight{
