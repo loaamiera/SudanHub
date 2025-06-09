@@ -43,7 +43,7 @@ header{
 }
 
 p{
-    max-width: 50% ;
+    max-width: 33 ;
     margin-left: auto ;
     margin-right: auto ;
     margin-bottom: 2%  !important;
@@ -58,6 +58,7 @@ footer{
     margin-top: 4% ;
     text-align: center ;
     font-size: 2.5em ;
+    
 }
 
 
