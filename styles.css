@@ -30,9 +30,11 @@ p{
     width: 50% ; 
 }
 
-li{
+a{
+        text-decoration: none ;
+        font-style: none ;
+    }
 
-}
 .button{
         border: solid ;
         border-width: 4px ;
@@ -40,10 +42,7 @@ li{
         border-color: darkred;
 }
 
-a{
-        text-decoration: none ;
-        font-style: none ;
-    }
+
 
 .grid{
         display : grid ;
