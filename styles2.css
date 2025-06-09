@@ -1,7 +1,7 @@
 html{
     overflow: auto ;
 }
-h1,h2,h3{
+h1 {
     color: red ;
 }
 .grid{
@@ -11,6 +11,7 @@ h1,h2,h3{
 .headgrid{
         display: grid ;
         grid-template-columns: 25%  50%  25% ;
+        align-items: top ;
         }
 header{
         .leftHead{
