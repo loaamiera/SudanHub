@@ -24,6 +24,11 @@ header{
         .rightHead{
         grid-column: 3 ;
         }
+    .largeImage{
+    width: 5% ; 
+    margin-bottom: 2%  !important;
+    display: block ;
+}
 }
 main{
     .topLeft{
@@ -90,12 +95,7 @@ footer{
 
 
 
-.largeImage{
-    width: 33% ; 
-    width: 50% ;
-    margin-bottom: 2%  !important;
-    display: block ;
-}
+
 
 a{
         text-decoration: none ;
