@@ -21,7 +21,7 @@ main{
         width: 40% ;
     }
     }
-.headgGrid{
+.headGrid{
             display: grid ;
             grid-template-columns: auto  auto  auto ;
             grid-template-rows: auto; 
@@ -93,7 +93,7 @@ footer{
     width: 33% ; 
     margin-left: auto ;
     margin-right: auto ;
-    margin-bottom: 33%  !important;
+    margin-bottom: 40%  !important;
     display: inline-block ;
 }
 
