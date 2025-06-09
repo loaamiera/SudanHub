@@ -109,3 +109,6 @@ nav{
     justify-content: center ;
     float: center ;
     }
+.clear{
+    clear: both ;
+    }
