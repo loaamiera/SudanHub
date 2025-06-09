@@ -84,11 +84,19 @@ footer{
 
 
 
-.largeImage{
+.largeImagetop{
     width: 30% ; 
     margin-left: auto ;
     margin-right: auto ;
     margin-top: 9%  !important;
+    display: inline-block ;
+}
+
+.largeImagetop{
+    width: 30% ; 
+    margin-left: auto ;
+    margin-right: auto ;
+    margin-top: 12.5%  !important;
     display: inline-block ;
 }
 
