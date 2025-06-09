@@ -71,7 +71,7 @@ main{
 .bottomLeft{
     grid-column: 1;
     grid-row: 4 ;
-    width: 5% ;
+    width: 10% ;
 }
 
 .bottomRight{
