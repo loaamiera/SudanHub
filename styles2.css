@@ -10,6 +10,7 @@ html{
     column-gap: 2% ;
     margin-right: 2.5% ;
     margin-left: 2.5% ;
+    justify-items: center ;
     
 }
 .headgrid{
