@@ -74,7 +74,7 @@ main{
 .middleLeft{
     grid-column: 1;
     grid-row: 3 ;
-    width: 60% ;
+    width: 40% ;
 }
 
 .middleRight{
