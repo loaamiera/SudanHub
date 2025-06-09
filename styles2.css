@@ -5,7 +5,7 @@ html{
 .grid{
     display: grid ;
     grid-template-columns: 60% 40% ;
-    grid-template-rows: auto auto auto auto auto ; 
+    grid-template-rows: auto auto auto auto; 
     row-gap: 2% ;}
 .headgrid{
         display: grid ;
@@ -80,9 +80,7 @@ main{
 }
 
 .bottomBold{
-    grid-column-start: 1;
-    grid-column-end: 2 ;
-    grid-row: 5 ;
+    text-align: center ;
     text-decoration: bold ;
     }
 
