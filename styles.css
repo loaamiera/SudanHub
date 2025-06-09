@@ -3,6 +3,8 @@ html{
 }
 h1,h2,h3{
     margin-bottom: 2% !important;
+    margin-left: auto ;
+    margin-right: auto ;
     color: red ;
 }
 
@@ -18,6 +20,8 @@ main{
     }}
 
 header{
+        margin-left: auto ;
+        margin-right: auto ;
         .column{
         display: inline-flex ;
         flex-direction: column ; 
@@ -43,6 +47,8 @@ header{
 
 p{
     max-width: 50% ;
+    margin-left: auto ;
+    margin-right: auto ;
     margin-bottom: 2%  !important;
 }
 
@@ -94,6 +100,8 @@ nav{
 
 .video{
     width: 50% ;
+    margin-left: auto ;
+    margin-right: auto ;
     margin-bottom: 2.5% ;
     margin-top: 2.5% ;
 }
