@@ -61,7 +61,7 @@ footer{
 
 
 .largeImage{
-    width: 75% ; 
+    width: 33% ; 
     margin-left: auto ;
     margin-right: auto ;
     margin-top: auto ;
@@ -96,6 +96,7 @@ nav{
 }
 
 .video{
+    width: 50% ;
     margin-bottom: 2.5% ;
     margin-top: 2.5% ;
 }
