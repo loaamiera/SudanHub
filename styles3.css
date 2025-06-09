@@ -2,9 +2,6 @@ html{
     overflow: auto ;
 }
 h1 {
-    margin-bottom: 2% !important;
-    margin-left: auto ;
-    margin-right: auto ;
     color: red ;
 }
 
@@ -85,7 +82,7 @@ footer{
     width: 33% ; 
     margin-left: auto ;
     margin-right: auto ;
-    margin-bottom: 10%  !important;
+    margin-bottom: 15%  !important;
     display: inline-block ;
 }
 
