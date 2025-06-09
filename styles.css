@@ -1,3 +1,7 @@
+main{
+        .button{
+        margin-bottom: 1 % ; }
+}
 h1,h2,h3{
     display: inline-flex ;
     flex-direction: column ;
@@ -9,6 +13,10 @@ header{
         margin: auto ;
         float: center;
         justify-content: center;
+        nav{
+            float: right !important ;
+        }
+    
 }
 
 .column{
@@ -46,6 +54,10 @@ ul{
     li a:link {color: black ;}
     li a:visited {color: (255,248,30) ;}
     li a:hover{color: (18, 177, 216) ; }
+}
+nav{
+    margin: auto ;
+}
 
 .button{
         border: solid ;
