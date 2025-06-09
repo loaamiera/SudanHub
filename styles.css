@@ -58,20 +58,21 @@ ul{
     li a:visited {color: rgb(255,248,30) ;}
     li a:hover{color: rgb(18, 177, 216) ; }
     li{
-            margin-bottom: 2%  !important;
-    }
-}
-nav{
-    margin: auto ;
-}
-
-.button{
+        margin-bottom: 2%  !important;
+        .button{
         border: solid ;
         border-width: 4px ;
         padding: 2px ;
         margin-bottom: 2%  !important;
         border-color: darkred;
 }
+    }
+}
+nav{
+    margin: auto ;
+}
+
+
 
 
 
