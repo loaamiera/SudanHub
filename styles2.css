@@ -11,7 +11,7 @@ h1 {
     row-gap: 2% ;}
 .headgrid{
         display: grid ;
-        grid-template-columns: 25%  50%  25% ;
+        grid-template-columns: 40%  20%  40% ;
         align-items: horizontal ;
         }
 header{
