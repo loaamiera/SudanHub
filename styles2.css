@@ -155,18 +155,7 @@ ul{
 
 
 
-.left{
-    display: inline-flex ;
-    flex-direction: column ;
-    float: left ;
-    width: 45% ;
-}
-.right{
-    display: inline-flex ;
-    flex-direction: column ;
-    float: right ;
-    width: 45% ;
-}
+
 .large{
     font-size: 50em ;
     color: green ;
