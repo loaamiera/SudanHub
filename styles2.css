@@ -10,6 +10,7 @@ html{
 .headgrid{
         display: grid ;
         grid-template-columns: auto  auto  auto ;
+        grid-template-rows: auto; 
         }
 header{
         nav{
@@ -79,6 +80,9 @@ main{
     grid-row: 4 ;
 }
 
+
+}
+
 .bottomBold{
     text-align: center ;
     text-decoration: bold ;
@@ -86,10 +90,6 @@ main{
     margin-left: auto ;
     margin-right: auto ;
     }
-
-}
-
-
 
 
 footer{
