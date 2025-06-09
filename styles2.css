@@ -29,14 +29,12 @@ header{
         }
         .middleHead{
         grid-column: 2 ;
+        width: 15%
         }
         .rightHead{
         grid-column: 3 ;
         }
-    .largeImage{
-    width: 15% ; 
-}
-}
+    }
 main{
     .topLeft{
     grid-column: 1;
