@@ -80,21 +80,14 @@ footer{
 
 
 
-.bottom{
-    text-align: center ;
-    width: 60% !important ;
-    margin-top: 4% ;
-    font-size: 1.5em ;
-    display: flex ;
-    align-items: flex-end ;
-    }
+
 
 
 .largeImage{
     width: 33% ; 
     margin-left: auto ;
     margin-right: auto ;
-    margin-bottom: 35%  !important;
+    margin-bottom: 33.3%  !important;
     display: inline-block ;
 }
 
@@ -130,4 +123,6 @@ ul{
     text-align: center ;
     margin-bottom: 4% ;
     }
-
+.clear{
+    clear: both ;
+}
