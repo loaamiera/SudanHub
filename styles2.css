@@ -82,6 +82,10 @@ main{
 .bottomBold{
     text-align: center ;
     text-decoration: bold ;
+    margin-top: 2% ;
+    margin-left: auto ;
+    margin-right: auto ;
+    margin-bottom: 2% ;
     }
 
 }
