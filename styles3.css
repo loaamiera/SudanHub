@@ -121,7 +121,7 @@ ul{
 .largeText{
     font-size: 2.5em ;
     color: green ;
-    text-align: center ;
+    text-align: center !important;
     margin-left: auto ;
     margin-right: auto ;
     margin-bottom: 4% ;
