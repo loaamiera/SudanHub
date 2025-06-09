@@ -7,7 +7,7 @@ h1,h2,h3{
     color: red ;
 }
 .grid{
-    grid-template-columns: 60% 30% ;
+    grid-template-columns: 60% 40% ;
     grid-template-rows: 10% 25% 25% 10% 30% ; }
 .headgrid{
         display: grid ;
