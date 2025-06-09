@@ -24,7 +24,7 @@ header{
         grid-column: 3 ;
         }
     .largeImage{
-    width: 5% ; 
+    width: 15% ; 
     margin-bottom: 2%  !important;
     display: block ;
 }
@@ -80,9 +80,6 @@ main{
 
 }
 
-p{
-    margin-bottom: 2%  !important;
-}
 
 
 
