@@ -78,6 +78,7 @@ main{
 .middleRight{
     grid-column: 2 ;
     grid-row: 3 ;
+    width: 60% ;
 }
 
 .bottomLeft{
