@@ -66,13 +66,14 @@ nav{
     li a:visited {color: rgb(255,248,30) ;}
     li a:hover{color: rgb(18, 177, 216) ; }
     li{
+        font-size: 1.25em ;
         margin-bottom: 2%  !important;
         margin-left: 1% ; 
         margin-right: 1% ;
         .button{
         border: solid ;
-        border-width: 4px ;
-        padding: 2px ;
+        border-width: 6px ;
+        padding: 0.25em ;
         margin-bottom: 2%  !important;
         border-color: darkred;
         }
