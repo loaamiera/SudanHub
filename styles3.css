@@ -4,6 +4,7 @@ html{
 
 
 main{
+    min-height: 200px;
     a:link {color: black ;}
     a:visited {color: rgb(255,248,30) ;}
     a:visited {color: rgb(255,248,30) ;}
