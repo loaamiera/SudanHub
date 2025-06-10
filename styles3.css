@@ -35,7 +35,7 @@ header{
                     flex-direction: row ;
                     li a:link {color: black ;}
                     li a:visited {color: rgb(113, 247, 56) ; }
-                    li a:hover {color: rgb(201, 30, 34) ;}
+                    li a:hover {color: rgb(235, 36, 36) ;}
                     list-style-type: none;
                     li{
                             margin-bottom: 2%  !important;
@@ -45,7 +45,7 @@ header{
             }
 }
 h1 {
-        color: rgb(201, 30, 34) ;
+        rgb(235, 36, 36) ;
         }
 .leftHead{
             grid-column: 1 ;
