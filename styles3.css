@@ -1,13 +1,85 @@
 html{
     overflow: auto ;
 }
-
+header{
+        margin-bottom: 4% ;
+        h1 {
+        color: red ;
+        }
+        .button{
+            border: solid ;
+            border-width: 4px ;
+            padding: 2px ;
+            margin-bottom: 2%  !important;
+            border-color: green;
+            }
+        ul{
+            display: inline-flex ;
+            flex-direction: row ;
+            li a:link {color: black ;}
+            li a:visited {color: green ;}
+            li a:hover{color: red ; }
+            list-style-type: none;
+            li{
+                margin-bottom: 2%  !important;
+                margin-left: 1% ; 
+                margin-right: 1% ;
+                .button{
+                border: solid ;
+                border-width: 4px ;
+                padding: 2px ;
+                margin-bottom: 2%  !important;
+                border-color: green;
+                }
+            }
+        }
+        .leftHead{
+            grid-column: 1 ;
+            grid-row: 1 ;
+            }
+        .middleHead{
+            grid-column: 2 ;
+            grid-row: 1 ;
+            width: 5% ;
+            }
+        .rightHead{
+            grid-column: 3 ;
+            grid-row: 1 ;
+            }
+}
 
 main{
-    min-height: 200px;
-    a:link {color: black ;}
-    a:visited {color: rgb(255,248,30) ;}
-    a:visited {color: rgb(255,248,30) ;}
+    min-height: 400px;
+    .button{
+            border: solid ;
+            border-width: 4px ;
+            padding: 8px ;
+            margin-bottom: 2%  !important;
+            border-color: darkred;
+            }
+    }
+    nav{
+        ul{
+            li a:link {color: black ;}
+            li a:visited {color: green ; }
+            li a:hover{color: green ; }
+            display: inline-flex ;
+            flex-direction: row ;
+            list-style-type: none;
+            li{
+                margin-bottom: 2%  !important;
+                margin-left: 2% ; 
+                margin-right: 2% ;
+                .button{
+                border: solid ;
+                border-width: 4px ;
+                margin-bottom: 2%  !important;
+                border-color: green;
+                }
+            }
+        }
+    }
+    
     .left{
     display: inline-flex ;
     flex-direction: column ;
@@ -31,34 +103,7 @@ main{
             justify-items: center ;
     
     }
-header{
-        margin-bottom: 4% ;
-        h1 {
-        color: red ;
-        }
-        nav{
-        .button{
-            border: solid ;
-            border-width: 4px ;
-            padding: 2px ;
-            margin-bottom: 2%  !important;
-            border-color: darkred;
-            }
-        }
-        .leftHead{
-            grid-column: 1 ;
-            grid-row: 1 ;
-            }
-        .middleHead{
-            grid-column: 2 ;
-            grid-row: 1 ;
-            width: 5% ;
-            }
-        .rightHead{
-            grid-column: 3 ;
-            grid-row: 1 ;
-            }
-}
+
 
 
 p{
