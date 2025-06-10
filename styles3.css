@@ -138,17 +138,18 @@ footer{
 
 
 
+
 .bottomBold{
+            display: flex ;
             text-align: center ;
             justify-content: center ;
-            font-style: bold ;
             font-size: 1.25em ;
-            color: rgb(245, 244, 22) ;
+            color: rgb(252, 237, 0) ;
             margin-top: 25% ;
             margin-left: auto ;
             margin-right: auto ;
             width: 75% ;
-            text-shadow: 1.5px 1.5px 1.75px rgb(75, 194, 224) ;
+            text-shadow: 1.33px 1.33px 1.5px rgb(75, 137, 245) ;
         }
 
 
