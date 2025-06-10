@@ -7,6 +7,13 @@ header{
         color: red ;
         }
         nav{
+                .buttonHead{
+                                border: solid ;
+                                border-width: 4px ;
+                                padding: 3px ;
+                                margin-bottom: 2%  !important;
+                                border-color: green;
+                            }
             ul{
                     display: inline-flex ;
                     flex-direction: row ;
@@ -14,13 +21,6 @@ header{
                     li a:visited {color: green ; }
                     li a:hover{color: red ; }
                     list-style-type: none;
-                    .buttonHead{
-                            border: solid ;
-                            border-width: 4px ;
-                            padding: 3px ;
-                            margin-bottom: 2%  !important;
-                            border-color: green;
-                                }
                     li{
                             margin-bottom: 2%  !important;
                             margin-left: 2% ; 
