@@ -96,7 +96,7 @@ nav{
 
 
 .column{
-    display: inline-flex ;
+    display: inline-flexbox ;
     flex-direction: column ;
     margin: auto ;
     text-align: center ;
