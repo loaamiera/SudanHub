@@ -55,7 +55,7 @@ main{
                         margin-bottom: 2%  !important;
                         border-color: green;
                     }
-        ul{
+            ul{
                 display: inline-flex ;
                 flex-direction: column ;
                 li a:link {color: black ;}
