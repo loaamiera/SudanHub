@@ -96,12 +96,12 @@ header{
 }
 
 
-}
+
 
 .bottomBold{
             display: inline-flex ;
             text-align: center ;
-            text-style: bold ;
+            font-style: bold ;
             font-size: 1.25em ;
             color: dark-yellow ;
             margin-top: 55% ;
