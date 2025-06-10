@@ -133,7 +133,7 @@ ul{
     list-style-type: none;
     li a:link {color: black ;}
     li a:visited {color: rgb(113, 247, 56) ; }
-    li a:hover{color:rgb(201, 30, 34) ;}
+    li a:hover{color: rgb(201, 30, 34)  ;}
     li{
         margin-bottom: 2%  !important;
         margin-left: 1% ; 
