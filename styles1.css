@@ -3,7 +3,6 @@ html{
 }
 h1,h2,h3{
     text-align:  center ;
-
     margin-left: auto ;
     margin-right: auto ;
     margin-bottom: 2% !important;
@@ -27,7 +26,6 @@ header{
 
 p{
     text-align:  center ;
-
     max-width: 44% ;
     margin-left: auto ;
     margin-right: auto ;
@@ -102,7 +100,7 @@ nav{
     flex-direction: column ;
     margin: auto ;
     text-align: center ;
-
+    align-items: center ;
     padding-top: 5% ;
     }
 .clear{
