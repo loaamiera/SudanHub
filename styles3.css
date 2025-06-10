@@ -48,6 +48,13 @@ header{
 main{
     min-height: 400px;
     nav{
+            .buttonMain{
+                        border: solid ;
+                        border-width: 6px ;
+                        padding: 0.5em ;
+                        margin-bottom: 2%  !important;
+                        border-color: green;
+                    }
         ul{
                 display: inline-flex ;
                 flex-direction: column ;
@@ -61,13 +68,6 @@ main{
                     text-align: center ;
                     margin-bottom: 2%  !important;
                     font-size: 1.25em ;
-                    .buttonMain{
-                    border: solid ;
-                    border-width: 6px ;
-                    padding: 0.5em ;
-                    margin-bottom: 2%  !important;
-                    border-color: green;
-                    }
                 }
             }
         }
