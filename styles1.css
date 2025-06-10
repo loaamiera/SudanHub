@@ -69,7 +69,7 @@ nav{
     list-style-type: none;
     li a:link {color: black ;}
     li a:visited {color: rgb(16, 128, 21) ;}
-    li a:hover{color: rgb(235, 36, 36) ;}
+    li a:hover{color: rgb(108, 250, 112) ;}
     li{
         font-size: 1.25em ;
         margin-bottom: 2%  !important;
