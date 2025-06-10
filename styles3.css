@@ -26,8 +26,8 @@ header{
                 margin-right: 1% ;
                 .button{
                 border: solid ;
-                border-width: 4px ;
-                padding: 2px ;
+                border-width: 2px ;
+                padding: 1px ;
                 margin-bottom: 2%  !important;
                 border-color: green;
                 }
@@ -55,7 +55,7 @@ main{
             border-width: 4px ;
             padding: 8px ;
             margin-bottom: 2%  !important;
-            border-color: darkred;
+            border-color: green;
             }
     }
     nav{
