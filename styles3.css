@@ -145,3 +145,10 @@ ul{
 .clear{
     clear: both ;
 }
+.column{
+    display: inline-flex ;
+    flex-direction: column ;
+    margin: auto ;
+    text-align: center ;
+    justify-content: center ;
+    }
