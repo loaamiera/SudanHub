@@ -2,17 +2,18 @@ html{
     overflow: auto ;
 }
 
-.grid{
-    display: grid ;
-    grid-template-columns: 55% 35% ;
-    grid-template-rows: auto auto auto auto; 
-    row-gap: 10% ;
-    column-gap: 2% ;
-    margin-right: 2.5% ;
-    margin-left: 2.5% ;
-    justify-items: center ;
-    
-}
+body{
+    .grid{
+        display: grid ;
+        grid-template-columns: 55% 35% ;
+        grid-template-rows: auto auto auto auto; 
+        row-gap: 10% ;
+        column-gap: 2% ;
+        margin-right: 2.5% ;
+        margin-left: 2.5% ;
+        justify-items: center ;
+        }
+    }
 .headgrid{
         display: grid ;
         grid-template-columns: auto  auto  auto ;
