@@ -46,6 +46,8 @@ header{
 
         
 main{
+    margin: auto ;
+    text-align: center ;
     min-height: 400px;
     nav{
             .buttonMain{
