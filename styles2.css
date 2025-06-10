@@ -99,7 +99,6 @@ header{
 }
 
 .bottomBold{
-            clear: both ;
             display: inline-flex ;
             text-align: center ;
             text-style: bold ;
