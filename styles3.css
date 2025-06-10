@@ -23,8 +23,8 @@ header{
         nav{
                 .buttonHead{
                                 border: solid ;
-                                border-width: 4px ;
-                                padding: 3px ;
+                                border-width: 4.5px ;
+                                padding: 4px ;
                                 margin-top: 2%  !important;
                                 margin-bottom: 2%  !important;
                                 border-color: rgb(16, 128, 21) ;
@@ -39,8 +39,8 @@ header{
                     list-style-type: none;
                     li{
                             margin-bottom: 2%  !important;
-                            margin-left: 2% ; 
-                            margin-right: 2% ;
+                            margin-left: 4% ; 
+                            margin-right: 4% ;
                       }
             }
 }
