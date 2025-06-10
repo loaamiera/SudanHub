@@ -99,6 +99,7 @@ header{
 
 body{
         .bottomBold{
+            display: inline-flex ;
             text-align: center ;
             text-style: bold ;
             margin-top: 55% ;
