@@ -112,8 +112,6 @@ footer{
     float: bottom ;
     margin-top: 4% ;
     text-align: center ;
-    display: inline-flex ;
-    flex-direction: row ;
 }
 
 
@@ -144,14 +142,6 @@ ul{
         border-color: darkred;
 }
     }
-}
-
-
-.video{
-    width: 50% ;
-    margin-bottom: 2.5% ;
-    margin-top: 2.5% ;
-    display: inline-block ;
 }
 
 
