@@ -50,7 +50,7 @@ main{
                 border: solid ;
                 border-width: 6px ;
                 padding: 0.5em ;
-                margin-bottom: 2%  !important;
+                margin-bottom: 15%  !important;
                 border-color: green;
             }
             margin: auto ;
@@ -63,7 +63,8 @@ main{
                 li a:hover{color: light-green ; }
                 list-style-type: none;
                 li{
-                    margin-bottom: 33%  !important;
+                    margin-top: 5% ;
+                    margin-bottom: 5% ;
                     font-size: 1.25em ;
                 }
             }
