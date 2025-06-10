@@ -29,8 +29,6 @@ p{
 
 
 footer{
-    display: inline-flex ;
-    flex-direction: row ;
     background-color: black ;
     text-align: center ;
     margin-top: 4% ;
