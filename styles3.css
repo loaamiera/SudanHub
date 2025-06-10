@@ -46,10 +46,10 @@ header{
 
         
 main{
-    margin: auto ;
-    text-align: center ;
     min-height: 400px;
     nav{
+            margin: auto ;
+            text-align: center ;
             .buttonMain{
                         border: solid ;
                         border-width: 6px ;
