@@ -7,18 +7,22 @@ header{
         color: red ;
         }
         li a:hover{color: red ; 
-        li{
-                margin-bottom: 2%  !important;
-                margin-left: 1% ; 
-                margin-right: 1% ;
-                .buttonHead{
-                border: solid ;
-                border-width: 2px ;
-                padding: 2px ;
-                margin-bottom: 2%  !important;
-                border-color: green;
-                        }
-            }
+        nav{
+            ul{
+                li{
+                        margin-bottom: 2%  !important;
+                        margin-left: 1% ; 
+                        margin-right: 1% ;
+                        .buttonHead{
+                        border: solid ;
+                        border-width: 2px ;
+                        padding: 2px ;
+                        margin-bottom: 2%  !important;
+                        border-color: green;
+                                }
+                    }
+                }
+        }
 
         .leftHead{
             grid-column: 1 ;
