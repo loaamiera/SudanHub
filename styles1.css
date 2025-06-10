@@ -63,8 +63,8 @@ nav{
     flex-direction: row ;
     list-style-type: none;
     li a:link {color: black ;}
-    li a:visited {color: rgb(255,248,30) ;}
-    li a:hover{color: rgb(18, 177, 216) ; }
+    li a:visited {color: green ;}
+    li a:hover{color: green ; }
     li{
         font-size: 1.25em ;
         margin-bottom: 2%  !important;
@@ -73,9 +73,9 @@ nav{
         .button{
         border: solid ;
         border-width: 6px ;
-        padding: 0.25em ;
+        padding: 0.5em ;
         margin-bottom: 2%  !important;
-        border-color: darkred;
+        border-color: green;
         }
     }
 }
