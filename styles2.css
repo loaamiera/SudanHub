@@ -97,12 +97,14 @@ header{
 
 }
 
-.bottomBold{
-    text-align: center ;
-    text-style: bold ;
-    margin-top: 33% ;
-    margin-left: auto ;
-    margin-right: auto ;
+body{
+        .bottomBold{
+            text-align: center ;
+            text-style: bold ;
+            margin-top: 55% ;
+            margin-left: auto ;
+            margin-right: auto ;
+        }
     }
 
 
