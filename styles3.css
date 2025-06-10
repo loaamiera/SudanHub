@@ -4,8 +4,9 @@ html{
 
 
 main{
-    margin-left: auto ;
-    margin-right: auto ;
+    a:link {color: black ;}
+    a:visited {color: rgb(255,248,30) ;}
+    a:visited {color: rgb(255,248,30) ;}
     .left{
     display: inline-flex ;
     flex-direction: column ;
@@ -114,6 +115,9 @@ a{
     }
 
 ul{
+    li a:link {color: black ;}
+    li a:visited {color: rgb(255,248,30) ;}
+    li a:hover{color: rgb(18, 177, 216) ; }
     display: inline-flex ;
     flex-direction: row ;
     list-style-type: none;
@@ -130,9 +134,6 @@ ul{
 }
     }
 }
-a:link {color: black ;}
-a:visited {color: rgb(255,248,30) ;}
-a:hover{color: rgb(18, 177, 216) ; }
 .largeText{
     font-size: 2.5em ;
     color: green ;
