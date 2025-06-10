@@ -8,17 +8,14 @@ h1,h2,h3{
 
 
 main{
-    text-align: center;
     justify-content: center ;
     }
 
 header{
-        text-align: center !important ;
         justify-content: center ;
 }
 
 p{
-    text-align: center ;
     max-width: 44% ;
     margin-bottom: 2%  !important;
 }
