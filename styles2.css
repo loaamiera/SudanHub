@@ -34,27 +34,27 @@ header{
         h1{
             color: red ;
         }
-        .leftHead{
-        grid-column: 1 ;
-        grid-row: 1 ;
-        }
-        .middleHead{
-        grid-column: 2 ;
-        grid-row: 1 ;
-        width: 5% ;
-        }
-        .rightHead{
-        grid-column: 3 ;
-        grid-row: 1 ;
-        }
-    }
-main{
-    .topLeft{
-    grid-column: 1;
-    grid-row: 1 ;
-    width: 60% ;
-}
 
+    }
+
+.leftHead{
+            grid-column: 1 ;
+            grid-row: 1 ;
+        }
+.middleHead{
+            grid-column: 2 ;
+            grid-row: 1 ;
+            width: 5% ;
+        }
+.rightHead{
+            grid-column: 3 ;
+            grid-row: 1 ;
+        }
+.topLeft{
+        grid-column: 1;
+        grid-row: 1 ;
+        width: 60% ; 
+        }
 .topRight{
     grid-column: 2;
     grid-row: 1 ;
@@ -129,8 +129,8 @@ ul{
     flex-direction: row ;
     list-style-type: none;
     li a:link {color: black ;}
-    li a:visited {color: rgb(255,248,30) ;}
-    li a:hover{color: rgb(18, 177, 216) ; }
+    li a:visited {color: green ; }
+    li a:hover{color: light-green ; }
     li{
         margin-bottom: 2%  !important;
         margin-left: 1% ; 
@@ -140,7 +140,7 @@ ul{
         border-width: 4px ;
         padding: 2px ;
         margin-bottom: 2%  !important;
-        border-color: darkred;
+        border-color: green;
 }
     }
 }
