@@ -65,10 +65,8 @@ h1 {
 
     
 main{
+
     min-height: 400px;
-    li a:link {color: black ; }
-    li a:visited {color: green ; }
-    li a:hover {color: light-green ; }
     nav{
             .buttonMain{
                 border: solid ;
@@ -78,6 +76,9 @@ main{
                 margin-bottom: 15%  !important;
                 border-color: green;
             }
+            nav a:link {color: black ; }
+            nav a:visited {color: green ; }
+            nav a:hover {color: light-green ; }
             margin: auto ;
             text-align: center ;
         }
