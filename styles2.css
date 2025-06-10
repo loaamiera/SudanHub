@@ -97,8 +97,7 @@ header{
 
 }
 
-body{
-        .bottomBold{
+.bottomBold{
             display: inline-flex ;
             text-align: center ;
             text-style: bold ;
@@ -106,7 +105,6 @@ body{
             margin-left: auto ;
             margin-right: auto ;
         }
-    }
 
 
 footer{
