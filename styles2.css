@@ -99,7 +99,6 @@ header{
 
 
 .bottomBold{
-            display: inline-flex ;
             text-align: center ;
             font-style: bold ;
             font-size: 1.25em ;
@@ -108,7 +107,7 @@ header{
             margin-left: auto ;
             margin-right: auto ;
             width: 75% ;
-            text-shadow: 1px 1px 1px rgb(75, 194, 224) ;
+            text-shadow: 1.25px 1.25px 1.25px rgb(75, 194, 224) ;
         }
 
 
