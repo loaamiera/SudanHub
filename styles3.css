@@ -45,7 +45,7 @@ header{
             }
 }
 h1 {
-        rgb(235, 36, 36) ;
+        color: rgb(235, 36, 36) ;
         }
 .leftHead{
             grid-column: 1 ;
