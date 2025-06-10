@@ -25,9 +25,8 @@ header{
         nav{
             .buttonHead{
                         border: solid ;
-                        border-width: 4px ;
-                        padding: 3px ;
-                        margin-bottom: 2%  !important;
+                        border-width: 4.5px ;
+                        padding: 4px ;
                         border-color: green;
                         }
             }
