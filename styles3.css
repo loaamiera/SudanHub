@@ -63,7 +63,7 @@ main{
                 li a:hover{color: light-green ; }
                 list-style-type: none;
                 li{
-                    margin-bottom: 20%  !important;
+                    margin-bottom: 33%  !important;
                     font-size: 1.25em ;
                 }
             }
