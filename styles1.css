@@ -2,6 +2,8 @@ html{
     overflow: auto ;
 }
 h1,h2,h3{
+    margin-left: auto ;
+    margin-right: auto ;
     margin-bottom: 2% !important;
     color: red ;
 }
@@ -14,6 +16,8 @@ main{
     }
 
 header{
+        margin-left: auto ;
+        margin-right: auto ;
         justify-content: center ;
 }
 
