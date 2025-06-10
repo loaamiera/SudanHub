@@ -28,23 +28,21 @@ header{
                       }
             }
         }
+}
 
-        .leftHead{
+.leftHead{
             grid-column: 1 ;
             grid-row: 1 ;
             }
-        .middleHead{
+.middleHead{
             grid-column: 2 ;
             grid-row: 1 ;
             width: 5% ;
             }
-        .rightHead{
+.rightHead{
             grid-column: 3 ;
             grid-row: 1 ;
-            }
-}
-
-        
+            }        
 main{
     min-height: 400px;
     nav{
@@ -65,7 +63,7 @@ main{
                 li a:hover{color: light-green ; }
                 list-style-type: none;
                 li{
-                    margin-bottom: 10%  !important;
+                    margin-bottom: 20%  !important;
                     font-size: 1.25em ;
                 }
             }
