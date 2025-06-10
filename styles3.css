@@ -48,26 +48,23 @@ header{
 main{
     min-height: 400px;
     nav{
+            .buttonMain{
+                border: solid ;
+                border-width: 6px ;
+                padding: 0.5em ;
+                margin-bottom: 2%  !important;
+                border-color: green;
+            }
             margin: auto ;
             text-align: center ;
-            .buttonMain{
-                        border: solid ;
-                        border-width: 6px ;
-                        padding: 0.5em ;
-                        margin-bottom: 2%  !important;
-                        border-color: green;
-                    }
             ul{
                 display: inline-flex ;
                 flex-direction: column ;
                 li a:link {color: black ;}
                 li a:visited {color: green ; }
                 li a:hover{color: light-green ; }
-                display: inline-flex ;
-                flex-direction: row ;
                 list-style-type: none;
                 li{
-                    text-align: center ;
                     margin-bottom: 2%  !important;
                     font-size: 1.25em ;
                 }
