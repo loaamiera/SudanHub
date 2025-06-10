@@ -137,7 +137,18 @@ footer{
 
 
 
-
+.bottomBold{
+            display: inline-flex ;
+            text-align: center ;
+            font-style: bold ;
+            font-size: 1.25em ;
+            color: rgb(245, 244, 22) ;
+            margin-top: 25% ;
+            margin-left: auto ;
+            margin-right: auto ;
+            width: 75% ;
+            text-shadow: 1px 1px 1px rgb(75, 194, 224) ;
+        }
 
 
 
