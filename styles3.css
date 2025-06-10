@@ -1,6 +1,30 @@
 html{
     overflow: auto ;
 }
+
+.headGrid{
+    
+            display: grid ;
+            grid-template-columns: auto  auto  auto ;
+            grid-template-rows: auto; 
+            justify-items: center ;
+    
+    }
+
+.leftHead{
+            grid-column: 1 ;
+            grid-row: 1 ;
+            }
+.middleHead{
+            grid-column: 2 ;
+            grid-row: 1 ;
+            width: 5% ;
+            }
+.rightHead{
+            grid-column: 3 ;
+            grid-row: 1 ;
+            }    
+
 header{
         margin-bottom: 4% ;
         h1 {
@@ -30,19 +54,7 @@ header{
         }
 }
 
-.leftHead{
-            grid-column: 1 ;
-            grid-row: 1 ;
-            }
-.middleHead{
-            grid-column: 2 ;
-            grid-row: 1 ;
-            width: 5% ;
-            }
-.rightHead{
-            grid-column: 3 ;
-            grid-row: 1 ;
-            }        
+    
 main{
     min-height: 400px;
     nav{
@@ -88,14 +100,7 @@ main{
     }
 
 
-.headGrid{
-    
-            display: grid ;
-            grid-template-columns: auto  auto  auto ;
-            grid-template-rows: auto; 
-            justify-items: center ;
-    
-    }
+
 
 
 
