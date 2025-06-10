@@ -10,18 +10,21 @@ h1,h2,h3{
 
 
 main{
+    text-align:  center ;
     margin-left: auto ;
     margin-right: auto ;
     justify-content: center ;
     }
 
 header{
+        text-align:  center ;
         margin-left: auto ;
         margin-right: auto ;
         justify-content: center ;
 }
 
 p{
+    text-align:  center ;
     max-width: 44% ;
     margin-left: auto ;
     margin-right: auto ;
@@ -55,6 +58,7 @@ a{
 
 
 nav{
+    text-align:  center ;
     margin-left: auto ;
     margin-right: auto ;
     width: 33% ;
