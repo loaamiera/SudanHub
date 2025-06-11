@@ -23,10 +23,9 @@ main{
     margin-left: auto ;
     margin-right: auto ;
     vertical-align: center ;
-    justify-items: center ;
     nav{
         width: 33% ;
-        align-self: center ;
+        justify-self: center ;
         .button{
             border: solid ;
             border-width: 6px ;
