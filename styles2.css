@@ -23,7 +23,6 @@ body{
 header{
         text-align: center ;
         justify-content: center ;
-        margin-left
         nav{
             .buttonHead{
                         border: solid ;
@@ -139,9 +138,8 @@ ul{
     li a:link {color: black ;}
     li a:visited {color: rgb(16, 128, 21) ; }
     li a:hover{color: rgb(235, 36, 36) ;}
-    padding: 4.5% ;
+    padding: 8% ;
     li{
-        margin-bottom: 2%  !important;
         .button{
         border: solid ;
         border-width: 4.5px ;
