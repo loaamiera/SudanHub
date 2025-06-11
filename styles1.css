@@ -40,15 +40,14 @@ main{
  
 
         ul{     
-                flex-direction: row ;
+                vertical-align: center ;
                 list-style-type: none;
                 text-align:  center ;
-                align-items: center ;
-                align-content: space-evenly ;
+                justify-content: space-evenly ;
                 li a:link {color: black ;}
                 li a:visited {color: rgb(16, 128, 21) ;}
                 li a:hover {color: rgb(0, 199, 6) ;}
-                vertical-align: center ;
+                
         }
     }
 }
