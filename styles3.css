@@ -30,8 +30,7 @@ header{
                                 border-color: rgb(16, 128, 21) ;
                                 align-self: center ;
                             }
-                .buttonHead: firstChild {   min-height: 150px ;
-                                            min-width: 300px ; }
+                .buttonHead: firstChild {   min-width: 300px ; }
                 ul{
                     margin-left: auto ;
                     margin-right: auto ;
