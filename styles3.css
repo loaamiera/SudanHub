@@ -32,7 +32,7 @@ header{
                                 border-color: rgb(16, 128, 21) ;
                                 align-self: center ;
                             }
-                buttonHead: firstChild { height: 300px ; 
+                .buttonHead: firstChild { height: 300px ; 
                                           width: 600px ; }
                 ul{
                     margin-left: auto ;
