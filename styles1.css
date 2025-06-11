@@ -19,16 +19,15 @@ h1,h2,h3{
 }
 
 main{
+    vertical-align: center ;
     text-align: center ;
     margin-left: auto ;
     margin-right: auto ;
     nav{
-        vertical-align: center ;
         margin-left: auto ;
         margin-right: auto ;
         align-content: center ;
         .button{
-            max-width: 400px;
             border: solid ;
             border-width: 6px ;
             border-color: rgb(16, 128, 21) ;
