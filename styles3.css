@@ -37,8 +37,10 @@ header{
                     li a:hover {color: rgb(235, 36, 36) ;}
                     list-style-type: none;
                     li{
+                            margin-left: auto ;
+                            margin-right: auto ;
                             margin-bottom: 2%  !important;
-                            align-content: space-evenly ; 
+
                       }
             }
         }
