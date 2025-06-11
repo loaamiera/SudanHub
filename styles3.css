@@ -27,6 +27,7 @@ header{
                                 margin-top: 2%  !important;
                                 margin-bottom: 2%  !important;
                                 border-color: rgb(16, 128, 21) ;
+                                horizontal-align: center ;
                             }
         }
         ul{
@@ -53,8 +54,7 @@ h1 {
 .middleHead{
             grid-column: 2 ;
             grid-row: 1 ;
-            width: 10% ;
-            position: center ;
+            width: 15% ;
             }
 .rightHead{
             grid-column: 3 ;
