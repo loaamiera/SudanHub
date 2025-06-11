@@ -15,6 +15,8 @@ main{
     margin-right: auto ;
     vertical-align: center ;
     nav{
+        margin-left: auto ;
+        margin-right: auto ;
         margin-bottom: 2% ;
         width: 33% ;
     }
