@@ -22,13 +22,12 @@ header{
         margin-left: auto ;
         margin-right: auto ;
         margin-bottom: 4% ;
+        justify-content: space-evenly ;
         nav{
                 .buttonHead{
                                 border: solid ;
                                 border-width: 4.5px ;
-                                padding: 2% ;
-                                margin-top: 2%  !important;
-                                margin-bottom: 2%  !important;
+                                padding: 8% ;
                                 border-color: rgb(16, 128, 21) ;
                             }
         }
@@ -70,7 +69,8 @@ header{
 main{
 
     min-height: 400px;
-    nav{
+    nav{    
+            gap: 10%; 
             .buttonMain{
                 border: solid ;
                 border-width: 6px ;
