@@ -27,7 +27,7 @@ header{
                                 margin: auto ;
                                 border: solid ;
                                 border-color: rgb(16, 128, 21) ; 
-                                align-items: center ;}
+                                }
 
 
                 ul{
@@ -37,7 +37,7 @@ header{
                     li a:visited {color: rgb(16, 128, 21) ; }
                     li a:hover {color: rgb(235, 36, 36) ;}
                     list-style-type: none ;
-                    horizontal-align: center ;
+                    align-items: center ;
                     li{
                             padding: 10% ;
                          }
