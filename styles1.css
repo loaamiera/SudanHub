@@ -47,8 +47,6 @@ footer{
 
 #largeImage{
     width: 25% ; 
-    margin-left: auto ;
-    margin-right: auto ;
 }
 
 a{
@@ -78,10 +76,7 @@ ul{
             font-size: 1.25em ;
         }
     }
-video{
-    margin-left: auto ;
-    margin-right: auto ;
-}
+
 
 .button{
             border: solid ;
