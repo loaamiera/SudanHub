@@ -26,7 +26,6 @@ main{
     nav{
         width: 33% ;
         justify-self: center ;
-        place-items: center ;
         .button{
             border: solid ;
             border-width: 6px ;
@@ -34,7 +33,7 @@ main{
             border-color: rgb(16, 128, 21) ;
             text-align: center ;
         }
-        ul{
+        ul{     place-items: center ;
                 display: inline-flex ;
                 flex-direction: row ;
                 list-style-type: none;
