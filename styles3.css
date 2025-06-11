@@ -32,6 +32,7 @@ header{
                                 border-color: rgb(16, 128, 21) ;
                                 align-self: center ;
                                 justify-self: stretch ;
+                                min-height: 150px ;
                             }
                 ul{
                     margin-left: auto ;
@@ -45,7 +46,6 @@ header{
                     list-style-type: none;
                     li{
                         padding: 10% ;
-                        min-height: 150px ;
                       }
             }
         }
