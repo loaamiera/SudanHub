@@ -45,6 +45,8 @@ footer{
 
 
 .largeImage{
+    display: inline-flexbox ;
+    flex-direction: column ;
     width: 25% ; 
     margin-left: auto ;
     margin-right: auto ;
@@ -92,6 +94,8 @@ nav{
 }
 
 .video{
+    display: inline-flexbox ;
+    flex-direction: column ;
     position: center ;
     margin-left: auto ;
     margin-right: auto ;
