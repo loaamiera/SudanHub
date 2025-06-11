@@ -1,7 +1,7 @@
 
 
 
-var alflag = document.getElementById("largeImage");
+var alflag = document.getElementById("flag");
 
 var picture = document.getElementById("stages");
 
