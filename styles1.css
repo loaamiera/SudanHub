@@ -10,7 +10,6 @@ h1,h2,h3{
 }
 
 main{
-    vertical-align: center ;
     text-align: center ;
     margin-left: auto ;
     margin-right: auto ;
@@ -80,6 +79,11 @@ ul{
             margin-bottom: 5%  !important;
         }
     }
+video{
+    margin-left: auto ;
+    margin-right: auto ;
+}
+
 .button{
             border: solid ;
             border-width: 6px ;
