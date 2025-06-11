@@ -24,17 +24,21 @@ main{
     margin-right: auto ;
     vertical-align: center ;
     nav{
+        margin: auto ;
         width: 33% ;
-        justify-content: center ;
         .button{
+            margin: auto ;
             border: solid ;
             border-width: 6px ;
             padding: 0.5em ;
             border-color: rgb(16, 128, 21) ;
             text-align: center ;
-            justify-self: stretch ;
+            justify-self: center ;
         }
-        ul{     
+        .button: firstChild {
+            height: 600px ;
+            width: 1200px ; }
+        ul{     margin: auto ;
                 flex-direction: row ;
                 list-style-type: none;
                 text-align:  center ;
