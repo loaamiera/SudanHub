@@ -33,7 +33,6 @@ main{
             text-align: center ;
         }
         ul{     place-self: center ;
-                display: inline-flex ;
                 flex-direction: row ;
                 list-style-type: none;
                 text-align:  center ;
