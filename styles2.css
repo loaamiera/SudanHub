@@ -56,36 +56,36 @@ header{
 .topLeft{
         grid-column: 1;
         grid-row: 1 ;
-        width: 50% ; 
+        width: 40% ; 
         }
 .topRight{
     grid-column: 2;
     grid-row: 1 ;
-    width: 43% ;
+    width: 50% ;
 }
 
 .secondLeft{
     grid-column: 1;
     grid-row: 2 ;
-    width: 40% ;
+    width: 47% ;
 }
 
 .secondRight{
     grid-column: 2;
     grid-row: 2 ;
-    width: 53% ;
+    width: 47% ;
 }
 
 .middleLeft{
     grid-column: 1;
     grid-row: 3 ;
-    width: 43% ;
+    width: 47% ;
 }
 
 .middleRight{
     grid-column: 2 ;
     grid-row: 3 ;
-    width: 52% ;
+    width: 50% ;
 }
 
 .bottomLeft{
