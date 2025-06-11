@@ -30,6 +30,8 @@ header{
                                 align-self: stretch ;
                                 justify-self: stretch ;
                             }
+                            li{
+                                font-size:1em ; }
 
                 ul{
                     margin-left: auto ;
