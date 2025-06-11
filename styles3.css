@@ -89,13 +89,15 @@ main{
                 border-color: rgb(16, 128, 21) ;
                 justify-self: stretch ;
                 align-self: stretch ;
-            }
-
+                justify-self: center ;
+        }
+        .buttonMain: firstChild {
+            height: 600px ;
+            width: 1200px ; }
             text-align: center ;
             ul{
             margin:auto ;
-            display: inline-flexbox ;
-            flex-direction: column ;
+            justify-content: space-evenly;
             list-style-type: none ;
             li a:link {color: black ; }
             li a:visited {color: rgb(16, 128, 21) ; }
