@@ -23,14 +23,15 @@ header{
             width: 20% ;
         }
         nav{
-                justify-content: center ;
+                align-items: center ;
                 .buttonHead{
                                 margin-left: auto ;
                                 margin-right: auto ;
                                 border: solid ;
                                 border-color: rgb(16, 128, 21) ;
                                 min-height: 300px  ;
-                                justify-self: center;
+                                align-self: center ;
+                                justify-self: stretch ;
                             }
                 ul{
                     margin-left: auto ;
