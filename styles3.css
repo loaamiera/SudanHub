@@ -21,11 +21,10 @@ header{
         img{
             width: 20% ;
         }
-        nav{    .buttonHead: firstChild { max-height: 800px ; 
-                                          max-width: 1600px ; }
+        nav{    li: firstChild { max-height: 400px ; 
+                                    max-width: 800px ; }
                 .buttonHead{
-                                margin-left: auto ;
-                                margin-right: auto ;
+                                margin: auto ;
                                 border: solid ;
                                 border-color: rgb(16, 128, 21) ;
                                 align-self: stretch ;
