@@ -27,8 +27,7 @@ header{
                                 margin-left: auto ;
                                 margin-right: auto ;
                                 border: solid ;
-                                border-width: 4.5px ;
-                                padding: 8% ;
+                                border-radius: 150px ;
                                 border-color: rgb(16, 128, 21) ;
                             }
                 ul{
@@ -86,6 +85,7 @@ main{
                 margin-top: 15%  !important;
                 margin-bottom: 15%  !important;
                 border-color: rgb(16, 128, 21) ;
+                boreder-radius: 300px ;
             }
 
             text-align: center ;
