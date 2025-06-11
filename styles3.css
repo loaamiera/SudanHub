@@ -26,7 +26,7 @@ header{
                 .buttonHead{
                                 border: solid ;
                                 border-width: 4.5px ;
-                                padding: 4px ;
+                                padding: 2% ;
                                 margin-top: 2%  !important;
                                 margin-bottom: 2%  !important;
                                 border-color: rgb(16, 128, 21) ;
@@ -44,10 +44,11 @@ header{
                             margin-left: 8% ; 
                       }
             }
-}
-h1 {
-        color: rgb(235, 36, 36) ;
+        h1 {
+            color: rgb(235, 36, 36) ;
         }
+}
+
 .leftHead{
             grid-column: 1 ;
             grid-row: 1 ;
