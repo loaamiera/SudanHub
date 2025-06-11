@@ -30,7 +30,7 @@ header{
                                 border-color: rgb(16, 128, 21) ;
                                 align-self: center ;
                             }
-                ul: firstChild {   min-height: 150px ;
+                li: firstChild {   min-height: 150px ;
                                             min-width: 300px ; }
                 ul{
                     margin-left: auto ;
