@@ -27,8 +27,8 @@ header{
                                 margin-left: auto ;
                                 margin-right: auto ;
                                 border: solid ;
-                                align-self: center ;
                                 border-color: rgb(16, 128, 21) ;
+                                align-self: center ;
                             }
                 ul{
                     margin-left: auto ;
@@ -40,7 +40,6 @@ header{
                     li a:visited {color: rgb(16, 128, 21) ; }
                     li a:hover {color: rgb(235, 36, 36) ;}
                     list-style-type: none;
-                    align-items: center;
                     li{
                         padding: 10% ;
                       }
@@ -94,7 +93,6 @@ main{
             display: inline-flex ;
             flex-direction: column ;
             list-style-type: none ;
-            align-items: center;
             li a:link {color: black ; }
             li a:visited {color: rgb(16, 128, 21) ; }
             li a:hover {color: rgb(0, 199, 6) ;}
