@@ -39,8 +39,6 @@ header{
                     li a:hover {color: rgb(235, 36, 36) ;}
                     list-style-type: none ;
                     li{
-                            max-width: 5% ;
-                            max-height: 2.5% ;
                             padding: 10% ;
                          }
             }
