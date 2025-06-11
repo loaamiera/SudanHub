@@ -32,6 +32,7 @@ main{
             border-width: 6px ;
             padding: 0.5em ;
             border-color: rgb(16, 128, 21) ;
+            background-color: white ;
             text-align: center ;
             justify-self: center ;
         }
