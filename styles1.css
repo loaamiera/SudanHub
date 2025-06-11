@@ -16,6 +16,13 @@ main{
     vertical-align: center ;
     nav{
         width: 33% ;
+        .button{
+            border: solid ;
+            border-width: 6px ;
+            padding: 0.5em ;
+            border-color: rgb(16, 128, 21) ;
+            margin: auto ;
+        }
     }
     ul{
     display: inline-flex ;
@@ -73,13 +80,7 @@ a{
 
 
 
-.button{
-            border: solid ;
-            border-width: 6px ;
-            padding: 0.5em ;
-            border-color: rgb(16, 128, 21) ;
-            margin: auto ;
-        }
+
 
 figure{
     margin-top: 4% ;
