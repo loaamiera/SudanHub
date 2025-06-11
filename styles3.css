@@ -82,8 +82,6 @@ main{
             .buttonMain{
                 border: solid ;
                 border-width: 6px ;
-                width: 100px ;
-                height: 50px ;
                 margin-top: 15%  !important;
                 margin-bottom: 15%  !important;
                 border-color: rgb(16, 128, 21) ;
@@ -101,6 +99,8 @@ main{
             li{
                     margin-top: 5% ;
                     margin-bottom: 5% ;
+                    width: 150px ;
+                    height: 75px ;
                     font-size: 1.25em ;
                 }
             }
