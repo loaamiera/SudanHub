@@ -40,7 +40,7 @@ header{
                     li a:hover {color: rgb(235, 36, 36) ;}
                     list-style-type: none;
                     li{
-                        justify-content: space-evenly ; }
+                        align-content: space-evenly ; }
             }
         }
 
