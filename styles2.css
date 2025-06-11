@@ -14,7 +14,7 @@ body{
         margin-bottom: 5% ;
         }
     }
-.headgrid{
+.headGrid{
             display: grid ;
             grid-template-columns: auto  auto  auto ;
             grid-template-rows: auto; 
@@ -46,6 +46,7 @@ header{
                     li a:visited {color: rgb(16, 128, 21) ; }
                     li a:hover{color: rgb(235, 36, 36) ;}
                     li{
+                        padding: 5% ;
                         .button{
                             margin-left: auto ;
                             margin-right: auto ;
@@ -56,10 +57,10 @@ header{
                            }
                        }
                     }
-        }
-h1{
-    color: rgb(235, 36, 36) ; 
+            h1{
+            color: rgb(235, 36, 36) ; 
     }
+        }
 
 .leftHead{
             grid-column: 1 ;
