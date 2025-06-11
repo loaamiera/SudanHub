@@ -46,12 +46,11 @@ footer{
 
 
 .largeImage{
-    display: inline-flex ;
-    flex-direction: column ;
+    display: inline-flexbox ;
+    justify-content: center ;
     width: 25% ; 
     margin-left: auto ;
     margin-right: auto ;
-    position: center ;
     margin-top: 4%  !important;
     margin-bottom: 16%  !important;
 }
@@ -65,7 +64,6 @@ a{
 nav{
     display: inline-flex ;
     flex-direction: row ;
-    text-align:  center ;
     margin-left: auto ;
     margin-right: auto ;
     jusify-content: center ;
