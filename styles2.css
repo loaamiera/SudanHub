@@ -53,7 +53,7 @@ h1{
 .middleHead{
             grid-column: 2 ;
             grid-row: 1 ;
-            width: 15 ;
+            width: 15% ;
             margin: auto ;
         }
 
@@ -172,6 +172,7 @@ ul{
     li a:link {color: black ;}
     li a:visited {color: rgb(16, 128, 21) ; }
     li a:hover{color: rgb(235, 36, 36) ;}
+    padding: 2% ;
     li{
         .button{
         margin-left: 8% ; 
