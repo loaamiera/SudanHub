@@ -27,6 +27,9 @@ header{
         margin-left: auto ;
         margin-right: auto ;
         justify-content: space-evenly ;
+        img{
+                width: 20% ;
+        }
         nav{
             .buttonHead{
                             border: solid ;
@@ -35,6 +38,24 @@ header{
                             border-color: rgb(16, 128, 21) ;
                         }
             }
+                ul{
+                    display: inline-flex ;
+                    flex-direction: row ;
+                    list-style-type: none;
+                    li a:link {color: black ;}
+                    li a:visited {color: rgb(16, 128, 21) ; }
+                    li a:hover{color: rgb(235, 36, 36) ;}
+                    li{
+                        .button{
+                            margin-left: auto ;
+                            margin-right: auto ;
+                            border: solid ;
+                            border-width: 4.5px ;
+                            padding: 2% ; ;
+                            border-color: rgb(16, 128, 21);
+                           }
+                       }
+                    }
         }
 h1{
     color: rgb(235, 36, 36) ; 
@@ -48,7 +69,6 @@ h1{
 .middleHead{
             grid-column: 2 ;
             grid-row: 1 ;
-            width: 20% ;
             margin: auto ;
         }
 
@@ -167,7 +187,7 @@ main{
             list-style-type: none;
             li a:link {color: black ;}
             li a:visited {color: rgb(16, 128, 21) ; }
-            li a:hover{color: rgb(235, 36, 36) ;}
+            li a:hover{color:rgb(0, 199, 6) ;}
             li{
                 .button{
                     margin-left: auto ;
