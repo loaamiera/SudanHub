@@ -56,7 +56,7 @@ header{
 .topLeft{
         grid-column: 1;
         grid-row: 1 ;
-        width: 50% ; 
+        width: 50% ;
         }
 .topRight{
     grid-column: 2;
