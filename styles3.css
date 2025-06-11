@@ -87,7 +87,8 @@ main{
                 margin-top: 15%  !important;
                 margin-bottom: 15%  !important;
                 border-color: rgb(16, 128, 21) ;
-                align-self: center ;
+                justify-self: stretch ;
+                align-self: stretch ;
             }
 
             text-align: center ;
