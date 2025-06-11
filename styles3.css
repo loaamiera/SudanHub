@@ -19,6 +19,7 @@ html{
 
 header{
         margin-bottom: 4% ;
+        horizontal-align: center ;
         nav{
                 .buttonHead{
                                 border: solid ;
@@ -27,7 +28,6 @@ header{
                                 margin-top: 2%  !important;
                                 margin-bottom: 2%  !important;
                                 border-color: rgb(16, 128, 21) ;
-                                horizontal-align: center ;
                             }
         }
         ul{
@@ -46,6 +46,8 @@ header{
 }
 h1 {
         color: rgb(235, 36, 36) ;
+        margin-left: 4% ; 
+        margin-right: 4% ;
         }
 .leftHead{
             grid-column: 1 ;
