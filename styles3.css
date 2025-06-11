@@ -85,7 +85,8 @@ main{
                 margin-top: 15%  !important;
                 margin-bottom: 15%  !important;
                 border-color: rgb(16, 128, 21) ;
-
+                min-width: 300px ;
+                min-height: 150px ;
             }
 
             text-align: center ;
@@ -101,8 +102,6 @@ main{
                     margin-top: 5% ;
                     margin-bottom: 5% ;
                     font-size: 1.25em ;
-                    max-width: 300px ;
-                    max-height: 150px ;
                 }
             }
         }
