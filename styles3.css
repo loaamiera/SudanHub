@@ -22,6 +22,7 @@ header{
             width: 20% ;
         }
         nav{
+                justify-items: center ;
                 .buttonHead{
                                 border-width: 6.5px ;
                                 margin: auto ;
@@ -32,15 +33,12 @@ header{
 
 
                 ul{
-                    margin-left: auto ;
-                    margin-right: auto ;
                     li a:link {color: black ;}
                     li a:visited {color: rgb(16, 128, 21) ; }
                     li a:hover {color: rgb(235, 36, 36) ;}
                     list-style-type: none ;
                     li{    
-                            justify-items: center ;
-                            padding: 10% ;
+                            padding: 2.5% ;
                          }
             }
         }
