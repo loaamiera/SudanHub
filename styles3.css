@@ -43,6 +43,7 @@ header{
                     list-style-type: none;
                     li{
                         padding: 10% ;
+                        min-height: 150px ;
                       }
             }
         }
@@ -84,8 +85,6 @@ main{
                 margin-top: 15%  !important;
                 margin-bottom: 15%  !important;
                 border-color: rgb(16, 128, 21) ;
-                min-height: 300px ;
-                min-width: 600px ;
                 align-self: center ;
             }
 
