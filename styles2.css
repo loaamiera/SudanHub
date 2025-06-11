@@ -22,9 +22,8 @@ body{
 
         }
 header{
-        text-align: center ;
-        justify-content: center ;
         nav{
+            position: center ;
             .buttonHead{
                         border: solid ;
                         border-width: 4.5px ;
@@ -34,6 +33,7 @@ header{
             }
         }
         h1{
+            position: center ;
             color: rgb(235, 36, 36) ;
         }
 
