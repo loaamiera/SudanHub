@@ -21,7 +21,7 @@ header{
         img{
             width: 20% ;
         }
-        nav{   justify-content: center ;
+        nav{   justify-items: center ;
                 .buttonHead{
                                 border-width: 6.5px ;
                                 margin: auto ;
