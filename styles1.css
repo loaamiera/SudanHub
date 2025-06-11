@@ -25,14 +25,13 @@ main{
     vertical-align: center ;
     nav{
         width: 33% ;
-        text-align: center ;
+        justify-self: center ;
         .button{
             border: solid ;
             border-width: 6px ;
             padding: 0.5em ;
             border-color: rgb(16, 128, 21) ;
             text-align: center ;
-            justify-self: center ;
             align-self: center ;
         }
         ul{
