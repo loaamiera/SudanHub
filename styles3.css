@@ -20,10 +20,10 @@ header{
         margin-right: auto ;
         margin-bottom: 4% ;
         nav{
-                 margin-left: auto ;
-                 margin-right: auto ;
                 justify-content: space-evenly ;
                 .buttonHead{
+                                margin-left: auto ;
+                                margin-right: auto ;
                                 border: solid ;
                                 border-width: 4.5px ;
                                 padding: 8% ;
