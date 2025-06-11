@@ -18,10 +18,10 @@ body{
         display: grid ;
         grid-template-columns: auto  auto  auto ;
         grid-template-rows: auto; 
-        horizontal-align: center ;
         }
 
 header{
+        horizontal-align: center  ;
         margin-left: 2.5% ;
         margin-right: 2.5% ;
         margin-bottom: 5% ;
@@ -39,7 +39,10 @@ header{
         h1{
             color: rgb(235, 36, 36) ;
         }
-
+main{
+    margin-left: auto ;
+    margin-right: auto ;
+}
 
 .leftHead{
             grid-column: 1 ;
@@ -75,7 +78,7 @@ header{
     width: 50% ;
     border: solid ;
     border-width: 6px ;
-    border-color: rgb(68, 69, 69)
+    border-color: rgb(68, 69, 69) ;
 }
 
 .secondRight{
