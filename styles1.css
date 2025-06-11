@@ -45,7 +45,7 @@ footer{
 
 
 
-.largeImage{
+#largeImage{
     display: inline-flexbox ;
     flex-direction: column ;
     position: center ;
