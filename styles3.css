@@ -90,6 +90,7 @@ main{
 
             text-align: center ;
             ul{
+            margin:auto ;
             display: inline-flex ;
             flex-direction: column ;
             list-style-type: none ;
