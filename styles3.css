@@ -40,7 +40,7 @@ header{
                     list-style-type: none;
                     li{
                             margin-bottom: 2%  !important;
-                            margin-left: 8% ; 
+                            align-content: space-evenly ; 
                       }
             }
         h1 {
