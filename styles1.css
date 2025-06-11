@@ -26,6 +26,9 @@ main{
     nav{
         margin: auto ;
         width: 33% ;
+        .button: firstChild {
+            max-height: 600px ;
+            max-width: 1200px ; }
         .button{
             margin: auto ;
             border: solid ;
@@ -35,16 +38,13 @@ main{
             background-color: white ;
             text-align: center ;
             justify-self: stretch ;
-            align-self: center ;
+            align-self: stretch ;
         }
-        .button: firstChild {
-            height: 600px ;
-            width: 1200px ; }
+
         ul{     margin: auto ;
                 flex-direction: row ;
                 list-style-type: none;
                 text-align:  center ;
-                align-items: start ;
                 justify-items: center ;
                 li a:link {color: black ;}
                 li a:visited {color: rgb(16, 128, 21) ;}
