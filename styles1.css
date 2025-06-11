@@ -6,7 +6,7 @@ header{
         text-align: center ;
         margin-left: auto ;
         margin-right: auto ;
-        justify-content: center ;
+        vertical-align: center ;
     
 }
 
@@ -22,7 +22,6 @@ main{
     text-align: center ;
     margin-left: auto ;
     margin-right: auto ;
-    vertical-align: center ;
     nav{
         width: 33% ;
         .button{
@@ -33,6 +32,7 @@ main{
             text-align: center ;
             justify-self: stretch ;
             align-self: stretch ;
+            font-size: 1.25em ;
             max-height: 1000px ;
             max-width: 2000px ;
             }
@@ -48,9 +48,7 @@ main{
                 li a:link {color: black ;}
                 li a:visited {color: rgb(16, 128, 21) ;}
                 li a:hover {color: rgb(0, 199, 6) ;}
-                li{
-                        font-size: 1.25em ;
-                    }
+                vertical-align: center ;
         }
     }
 }
