@@ -25,11 +25,7 @@ header{
         margin-left: 2.5% ;
         margin-right: 2.5% ;
         margin-bottom: 5% ;
-        img{             
-            position: center ;
-           }
         nav{
-            position: center ;
             .buttonHead{
                         border: solid ;
                         border-width: 4.5px ;
@@ -45,8 +41,7 @@ header{
             color: rgb(235, 36, 36) ;
         }
 
-section{
-    align-items: horizontally ; }
+
 .leftHead{
             grid-column: 1 ;
             grid-row: 1 ;
@@ -70,6 +65,9 @@ section{
     grid-column: 2;
     grid-row: 1 ;
     width: 50% ;
+    border: solid ;
+    border-width: 6px ;
+    border-color: rgb(68, 69, 69) ;
 }
 
 .secondLeft{
@@ -97,12 +95,18 @@ section{
     grid-column: 2 ;
     grid-row: 3 ;
     width: 50% ;
+    border: solid ;
+    border-width: 6px ;
+    border-color: rgb(75, 137, 245) ;
 }
 
 .bottomLeft{
     grid-column: 1;
     grid-row: 4 ;
     width: 40% ;
+    border: solid ;
+    border-width: 6px ;
+    border-color: rgb(75, 137, 245) ;
 }
 
 .bottomRight{
