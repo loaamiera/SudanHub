@@ -83,18 +83,17 @@ nav{
     li{
         font-size: 1.25em ;
         margin-bottom: 2%  !important;
-        .button{
-        position: center ;
-        border: solid ;
-        border-width: 6px ;
-        padding: 0.5em ;
-        margin-bottom: 2%  !important;
-        border-color: rgb(16, 128, 21) ;
         }
     }
 }
-}
-
+.button{
+            position: center ;
+            border: solid ;
+            border-width: 6px ;
+            padding: 0.5em ;
+            margin-bottom: 2%  !important;
+            border-color: rgb(16, 128, 21) ;
+        }
 .video{
     display: inline-flexbox ;
     flex-direction: column ;
