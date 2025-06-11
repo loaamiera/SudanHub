@@ -74,6 +74,7 @@ main{
     margin: auto ;
     min-height: 400px;
     nav{    
+            justify-items: center ;
             margin:auto ;
             .buttonMain{
                 border: solid ;
@@ -82,8 +83,6 @@ main{
                 margin-bottom: 15%  !important;
                 border-color: rgb(16, 128, 21) ;
                 justify-self: stretch ;
-                align-self: stretch ;
-                justify-self: center ;
         }
         .buttonMain: firstChild {
             height: 600px ;
