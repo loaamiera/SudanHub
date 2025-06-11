@@ -19,13 +19,10 @@ body{
             grid-template-columns: auto  auto  auto ;
             grid-template-rows: auto; 
             horizontal-align: center ;
-            justify-content: space-evenly ;
         }
 
 header{
         horizontal-align: center  ;
-        margin-left: 2.5% ;
-        margin-right: 2.5% ;
         margin-bottom: 5% ;
         margin-left: auto ;
         margin-right: auto ;
