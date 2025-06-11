@@ -35,6 +35,7 @@ main{
             background-color: white ;
             text-align: center ;
             justify-self: stretch ;
+            align-self: center ;
             justify-self: center ;
         }
         .button: firstChild {
