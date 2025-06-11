@@ -36,8 +36,6 @@ header{
                             margin-top: 2%  !important;
                             margin-bottom: 2%  !important;
                             border-color: rgb(16, 128, 21) ;
-                            margin-left: auto ;
-                            margin-right: auto ;
                         }
             }
         }
@@ -175,7 +173,8 @@ ul{
     padding: 2% ;
     li{
         .button{
-        margin-left: 8% ; 
+        margin-left: auto ;
+        margin-right: auto ;
         border: solid ;
         border-width: 4.5px ;
         padding: 2% ; ;
