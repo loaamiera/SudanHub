@@ -55,7 +55,6 @@ h1 {
             grid-row: 1 ;
             width: 10% ;
             position: center ;
-            justify-content: center ;
             }
 .rightHead{
             grid-column: 3 ;
