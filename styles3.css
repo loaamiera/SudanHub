@@ -29,6 +29,7 @@ header{
                                 border: solid ;
                                 border-color: rgb(16, 128, 21) ;
                                 align-self: center ;
+                                width: 300px ;
                             }
                 ul{
                     margin-left: auto ;
