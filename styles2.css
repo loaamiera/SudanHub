@@ -11,6 +11,7 @@ body{
         column-gap: 2% ;
         margin-right: 2.5% ;
         margin-left: 2.5% ;
+        margin-bottom: 5% ;
         justify-items: center ;
         }
     }
@@ -55,36 +56,36 @@ header{
 .topLeft{
         grid-column: 1;
         grid-row: 1 ;
-        width: 60% ; 
+        width: 50% ; 
         }
 .topRight{
     grid-column: 2;
     grid-row: 1 ;
-    width: 33% ;
+    width: 43% ;
 }
 
 .secondLeft{
     grid-column: 1;
     grid-row: 2 ;
-    width: 20% ;
+    width: 40% ;
 }
 
 .secondRight{
     grid-column: 2;
     grid-row: 2 ;
-    width: 30% ;
+    width: 53% ;
 }
 
 .middleLeft{
     grid-column: 1;
     grid-row: 3 ;
-    width: 33% ;
+    width: 43% ;
 }
 
 .middleRight{
     grid-column: 2 ;
     grid-row: 3 ;
-    width: 60% ;
+    width: 52% ;
 }
 
 .bottomLeft{
