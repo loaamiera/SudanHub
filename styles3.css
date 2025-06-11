@@ -52,17 +52,18 @@ header{
 .leftHead{
             grid-column: 1 ;
             grid-row: 1 ;
+            margin: auto ;
             }
 .middleHead{
             grid-column: 2 ;
             grid-row: 1 ;
             width: 15% ;
-            margin-left: auto ;
-            margin-right: auto ;
+            margin: auto ;
             }
 .rightHead{
             grid-column: 3 ;
             grid-row: 1 ;
+            margin: auto ;
             }    
 
 
