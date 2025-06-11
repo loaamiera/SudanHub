@@ -25,6 +25,7 @@ main{
     vertical-align: center ;
     nav{
         width: 33% ;
+        vertical-align: center ;
         .button{
             border: solid ;
             border-width: 6px ;
