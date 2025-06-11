@@ -32,8 +32,9 @@ main{
             padding: 0.5em ;
             border-color: rgb(16, 128, 21) ;
             text-align: center ;
+            align-self: center ;
         }
-        ul{     place-self: center ;
+        ul{     
                 flex-direction: row ;
                 list-style-type: none;
                 text-align:  center ;
