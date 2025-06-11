@@ -24,6 +24,7 @@ main{
     margin-right: auto ;
     vertical-align: center ;
     nav{
+        vertical-align: center ;
         width: 33% ;
         .button{
             border: solid ;
