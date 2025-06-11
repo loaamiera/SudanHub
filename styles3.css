@@ -21,13 +21,13 @@ header{
         img{
             width: 20% ;
         }
-        nav{   
+        nav{   justify-content: center ;
                 .buttonHead{
                                 border-width: 6.5px ;
                                 margin: auto ;
                                 border: solid ;
                                 border-color: rgb(16, 128, 21) ; 
-                                justify-items: center ;
+                                justify-self: stretch ;
                                 }
 
 
@@ -39,6 +39,8 @@ header{
                     li a:hover {color: rgb(235, 36, 36) ;}
                     list-style-type: none ;
                     li{
+                            max-width: 5% ;
+                            max-height: 2.5% ;
                             padding: 10% ;
                          }
             }
