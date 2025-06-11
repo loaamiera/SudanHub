@@ -22,6 +22,8 @@ body{
         }
 
 header{
+        margin-left: 2.5% ;
+        margin-right: 2.5% ;
         margin-bottom: 5% ;
         img{             
             position: center ;
@@ -32,6 +34,8 @@ header{
                         border: solid ;
                         border-width: 4.5px ;
                         padding: 4px ;
+                        margin-top: 2%  !important;
+                        margin-bottom: 2%  !important;
                         border-color: rgb(16, 128, 21) ;
                         }
             }
@@ -41,7 +45,8 @@ header{
             color: rgb(235, 36, 36) ;
         }
 
-
+section{
+    align-items: horizontally ; }
 .leftHead{
             grid-column: 1 ;
             grid-row: 1 ;
