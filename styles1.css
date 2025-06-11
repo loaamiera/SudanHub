@@ -70,7 +70,9 @@ nav{
     jusify-content: center ;
     margin-bottom: 4% ;
     width: 33% ;
-    ul{
+}
+
+ul{
     list-style-type: none;
     text-align:  center ;
     padding: 24% ;
@@ -82,7 +84,6 @@ nav{
         margin-bottom: 2%  !important;
         }
     }
-}
 .button{
             border: solid ;
             border-width: 6px ;
