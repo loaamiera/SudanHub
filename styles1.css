@@ -33,6 +33,7 @@ main{
             border-color: rgb(16, 128, 21) ;
             text-align: center ;
             align-self: center ;
+            justify-self: center;
         }
         ul{     
                 flex-direction: row ;
