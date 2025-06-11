@@ -28,6 +28,8 @@ header{
                                 margin-right: auto ;
                                 border: solid ;
                                 border-color: rgb(16, 128, 21) ;
+                                min-height: 150px ;
+                                min-width: 300px ;
                                 align-self: center ;
                             }
                 ul{
@@ -83,6 +85,8 @@ main{
                 margin-top: 15%  !important;
                 margin-bottom: 15%  !important;
                 border-color: rgb(16, 128, 21) ;
+                min-height: 300px ;
+                min-width: 600px ;
                 align-self: center ;
             }
 
