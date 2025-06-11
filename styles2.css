@@ -28,6 +28,7 @@ header{
         margin-right: auto ;
         justify-content: space-evenly ;
         nav{
+            justify-content: space-evenly ;
             .buttonHead{
                             border: solid ;
                             border-width: 4.5px ;
@@ -89,6 +90,7 @@ h1{
     grid-column: 2;
     grid-row: 2 ;
     width: 50% ;
+    margin: auto ;
 }
 
 .middleLeft{
