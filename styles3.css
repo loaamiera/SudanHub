@@ -29,7 +29,7 @@ header{
                                 border: solid ;
                                 border-color: rgb(16, 128, 21) ;
                                 align-self: center ;
-                                justify-self: stretch;
+                                justify-self: center;
                             }
                 ul{
                     margin-left: auto ;
