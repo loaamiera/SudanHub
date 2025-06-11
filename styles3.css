@@ -21,8 +21,7 @@ header{
         img{
             width: 20% ;
         }
-        nav{    ul: firstChild { max-height: 400px ; 
-                                    max-width: 800px ; }
+        nav{   
                 .buttonHead{
                                 border-with: 6.5px ;
                                 margin: auto ;
@@ -38,7 +37,6 @@ header{
                     li a:hover {color: rgb(235, 36, 36) ;}
                     list-style-type: none;
                     align-items: center ;
-                    justify-items: stretch ;
                     li{
                             padding: 10% ;
                          }
