@@ -28,7 +28,6 @@ header{
         margin-right: auto ;
         justify-content: space-evenly ;
         nav{
-            justify-content: space-evenly ;
             .buttonHead{
                             border: solid ;
                             border-width: 4.5px ;
@@ -51,7 +50,7 @@ h1{
 .middleHead{
             grid-column: 2 ;
             grid-row: 1 ;
-            width: 15% ;
+            width: 20% ;
             margin: auto ;
         }
 
@@ -170,15 +169,14 @@ ul{
     li a:link {color: black ;}
     li a:visited {color: rgb(16, 128, 21) ; }
     li a:hover{color: rgb(235, 36, 36) ;}
-    padding: 2% ;
     li{
         .button{
-        margin-left: auto ;
-        margin-right: auto ;
-        border: solid ;
-        border-width: 4.5px ;
-        padding: 2% ; ;
-        border-color: rgb(16, 128, 21);
+            margin-left: auto ;
+            margin-right: auto ;
+            border: solid ;
+            border-width: 4.5px ;
+            padding: 2% ; ;
+            border-color: rgb(16, 128, 21);
     }
     }
 }
