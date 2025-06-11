@@ -26,13 +26,13 @@ main{
     nav{
         width: 33% ;
         justify-self: center ;
+        place-items: center ;
         .button{
             border: solid ;
             border-width: 6px ;
             padding: 0.5em ;
             border-color: rgb(16, 128, 21) ;
             text-align: center ;
-            align-self: center ;
         }
         ul{
                 display: inline-flex ;
