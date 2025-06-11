@@ -78,7 +78,7 @@ main{
     margin: auto ;
     min-height: 400px;
     nav{    
-            gap: 10%; 
+            margin:auto ;
             .buttonMain{
                 border: solid ;
                 border-width: 6px ;
