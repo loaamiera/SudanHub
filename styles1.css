@@ -46,7 +46,7 @@ footer{
 
 
 .largeImage{
-    display: inline-flexbox ;
+    display: inline-flex ;
     flex-direction: column ;
     width: 25% ; 
     margin-left: auto ;
@@ -71,13 +71,13 @@ nav{
     margin-bottom: 4% ;
     width: 33% ;
     ul{
-    display: inline-flex ;
+    display: inline-flexbox ;
     flex-direction: row ;
     list-style-type: none;
     text-align:  center ;
     margin-left: auto ;
     margin-right: auto ;
-    padding: 2.5% ;
+    padding: 4.5% ;
     li a:link {color: black ;}
     li a:visited {color: rgb(16, 128, 21) ;}
     li a:hover {color: rgb(0, 199, 6) ;}
