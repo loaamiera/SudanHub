@@ -25,6 +25,8 @@ main{
     vertical-align: center ;
     nav{
         width: 33% ;
+        display: inline-flexbox ;
+        justify-content: center ;
         .button{
             border: solid ;
             border-width: 6px ;
@@ -33,7 +35,7 @@ main{
             text-align: center ;
         }
         ul{
-                display: inline-flexbox ;
+                display: inline-flex ;
                 flex-direction: row ;
                 list-style-type: none;
                 text-align:  center ;
