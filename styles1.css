@@ -23,7 +23,7 @@ main{
     margin-left: auto ;
     margin-right: auto ;
     nav{
-        width: 33% ;
+        vertical-align: center ;
         .button{
             border: solid ;
             border-width: 6px ;
@@ -36,8 +36,8 @@ main{
  
 
         ul{     
-                vertical-align: center ;
                 list-style-type: none;
+                width: 33% ;
                 text-align:  center ;
                 justify-items: center ;
                 li a:link {color: black ;}
