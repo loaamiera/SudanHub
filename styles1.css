@@ -33,6 +33,7 @@ main{
             border-color: rgb(16, 128, 21) ;
             text-align: center ;
             justify-self: center ;
+            align-self: center ;
         }
         ul{
                 display: inline-flex ;
