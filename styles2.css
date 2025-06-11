@@ -27,17 +27,16 @@ header{
         margin-bottom: 5% ;
         nav{
             .buttonHead{
-                        border: solid ;
-                        border-width: 4.5px ;
-                        padding: 4px ;
-                        margin-top: 2%  !important;
-                        margin-bottom: 2%  !important;
-                        border-color: rgb(16, 128, 21) ;
+                            border: solid ;
+                            border-width: 4.5px ;
+                            padding: 2% ;
+                            margin-top: 2%  !important;
+                            margin-bottom: 2%  !important;
+                            border-color: rgb(16, 128, 21) ;
                         }
             }
         }
         h1{
-            position: center ;
             color: rgb(235, 36, 36) ;
         }
 
@@ -76,7 +75,7 @@ header{
     width: 50% ;
     border: solid ;
     border-width: 6px ;
-    border-color: rgb(68, 69, 69) ;
+    border-color: rgb(68, 69, 69)
 }
 
 .secondRight{
@@ -97,7 +96,7 @@ header{
     width: 50% ;
     border: solid ;
     border-width: 6px ;
-    border-color: rgb(75, 137, 245) ;
+    border-color: rgb(68, 69, 69) ;
 }
 
 .bottomLeft{
@@ -160,8 +159,7 @@ ul{
     li a:hover{color: rgb(235, 36, 36) ;}
     li{
         .button{
-        margin-left: 4% ; 
-        margin-right: 4% ;
+        margin-left: 8% ; 
         border: solid ;
         border-width: 4.5px ;
         padding: 2% ; ;
