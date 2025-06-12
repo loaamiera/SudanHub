@@ -116,6 +116,7 @@ figure{
 .column{
     display: inline-flex ;
     flex-direction: column ;
+    vertical-align: center;
     margin: auto ;
     text-align: center ;
     vertical-align: center ;
