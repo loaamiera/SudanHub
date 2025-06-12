@@ -23,8 +23,6 @@ header{
             width: 20% ;
         }
         nav{     
-                display: inline-flex ;
-                flex-direction: row ;
                 .buttonHead{
                                 border: solid ;
                                 border-width: 4.5px ;
@@ -33,7 +31,9 @@ header{
                                 justify-self: strech ;
                                 }
 
-                ul{
+                ul{ 
+                    display: inline-flexbox ;
+                    flex-direction: row ;
                     justify-items: stretch ;
                     li a:link {color: black ;}
                     li a:visited {color: rgb(16, 128, 21) ; }
