@@ -114,7 +114,7 @@ figure{
 
 
 .column{
-    display: inline-flexbox ;
+    display: inline-flex ;
     flex-direction: column ;
     margin: auto ;
     text-align: center ;
