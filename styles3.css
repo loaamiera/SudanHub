@@ -13,7 +13,8 @@ html{
     }
 
 section{
-header{
+    align-items: center ;
+    header{
         display: grid ;
         margin-left: auto ;
         margin-right: auto ;
