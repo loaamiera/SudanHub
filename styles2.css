@@ -29,8 +29,8 @@ header{
                                 padding: 8% ;
                                 border-color: rgb(16, 128, 21) ;
                                 justify-self: strech ;
-                                align-content: center ;
                                 }
+                justify-items: stretch ;
                 ul{
                     li a:link {color: black ;}
                     li a:visited {color: rgb(16, 128, 21) ; }
@@ -38,6 +38,7 @@ header{
                     list-style-type: none;
                     li{
                         align-items: center ;
+                        justify-self: stretch ;
                       }
                 }
             }
