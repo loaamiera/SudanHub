@@ -18,6 +18,9 @@ h1,h2,h3{
     color: rgb(235, 36, 36) ;
 }
 
+section nav {
+    align-items: center ;
+        }
 main{
     display: inline-flex ;
     flex-direction: column ;
@@ -27,7 +30,6 @@ main{
     margin-right: auto ;
 
     nav{
-        align-items: center ;
         display: inline-flex ;
         flex-direction: column ;
         .button{
@@ -113,7 +115,7 @@ figure{
     flex-direction: column ;
     margin: auto ;
     text-align: center ;
-    justify-content: center ;
+    vertical-align: center ;
     padding-top: 5% ;
     }
 .clear{
