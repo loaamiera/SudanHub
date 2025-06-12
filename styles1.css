@@ -33,7 +33,7 @@ main{
             font-size: 1.25em ;
             padding-left: 2.5% ;
             padding-right: 2.5% ;
-            align-items: stretch ;
+            align-self: stretch ;
 
             }
         
