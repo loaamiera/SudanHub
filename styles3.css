@@ -203,5 +203,5 @@ a{
     display: inline-flex ;
     flex-direction: column ;
     margin: auto ;
-
+    text-align: center ;
     }
