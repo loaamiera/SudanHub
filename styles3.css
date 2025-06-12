@@ -22,7 +22,7 @@ header{
             width: 20% ;
         }
         nav{     
-                align-items: stretch ;
+                justify-content: space-evenly ;
                 display: inline-flex ;
                 flex-direction: row ;
                 .buttonHead{
