@@ -24,6 +24,7 @@ main{
     margin-left: auto ;
     margin-right: auto ;
     nav{
+        align-self: stretch ;
         .button{
             border: solid ;
             border-width: 6px ;
@@ -46,7 +47,7 @@ main{
                 li a:hover {color: rgb(0, 199, 6) ;}
                 align-items: stretch ;
                 li { 
-                         }
+                      margin: auto ;   }
                 
         }
     }
