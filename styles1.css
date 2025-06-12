@@ -24,6 +24,7 @@ section ul {
     justify-content: space-evenly ;
         }
 section  li {
+            align-items: center ;
               padding: 10% ; }
 main{
     display: inline-flex ;
@@ -44,7 +45,6 @@ main{
             text-align: center ;
             font-size: 1.25em ;
             align-self: center ;
-            justify-self: center ;
             }
 
         ul{     
