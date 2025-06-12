@@ -4,8 +4,6 @@ html{
 
 header{
         text-align: center ;
-        margin-left: auto ;
-        margin-right: auto ;
         h1,h2,h3{
         margin-bottom: 2% !important;
         color: rgb(235, 36, 36) ;
@@ -20,8 +18,6 @@ main{
 
     vertical-align: center ;
     text-align: center ;
-    margin-left: auto ;
-    margin-right: auto ;
 
     nav{
         display: inline-flex ;
@@ -55,6 +51,7 @@ main{
 p{
     display: inline-flex ;
     flex-direction: column ;
+    margin: auto ;
     text-align:  center ;
     max-width: 44% ;
     margin-left: auto ;
