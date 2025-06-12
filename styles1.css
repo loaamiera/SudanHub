@@ -18,6 +18,7 @@ h1,h2,h3{
     color: rgb(235, 36, 36) ;
 }
 
+
 section ul {
     align-items: center ;
     justify-content: space-evenly ;
@@ -43,6 +44,7 @@ main{
             text-align: center ;
             font-size: 1.25em ;
             align-self: center ;
+            justify-self: center ;
             }
 
         ul{     
