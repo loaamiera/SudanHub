@@ -46,7 +46,6 @@ main{
                 li a:hover {color: rgb(0, 199, 6) ;}
                 align-items: stretch ;
                 li { 
-                    align-self: stretch ;
                          }
                 
         }
