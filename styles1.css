@@ -114,9 +114,8 @@ section{
     flex-direction: column ;
     margin: auto ;
     text-align: center ;
-    align-items: center ;
     align-content: center ;
-    justify-content: center ;
+    justify-items: center ;
     padding-top: 5% ;
     }
 .clear{
