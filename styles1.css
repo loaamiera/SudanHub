@@ -33,13 +33,14 @@ main{
             font-size: 1.25em ;
             padding-left: 2.5% ;
             padding-right: 2.5% ;
+            align-items: stretch ;
 
             }
         
         align-content: space-between ;     
 
         ul{      
-                align-items: stretch ;
+
                 list-style-type: none;
                 text-align:  center ;
                 li a:link {color: black ;}
