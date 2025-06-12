@@ -12,7 +12,7 @@ html{
     
     }
 
-
+section{
 header{
         display: grid ;
         margin-left: auto ;
@@ -46,28 +46,7 @@ header{
                       }
                 }
         }
-
-
-.leftHead{
-            grid-column: 1 ;
-            grid-row: 1 ;
-            margin: auto ;
-            }
-.middleHead{
-            grid-column: 2 ;
-            grid-row: 1 ;
-            margin: auto ;
-            }
-.rightHead{
-            grid-column: 3 ;
-            grid-row: 1 ;
-            margin: auto ;
-            }    
-
-
-
-    
-main{
+    main{
     margin: auto ;
     min-height: 400px;
     nav{    
@@ -101,6 +80,28 @@ main{
         }
 
     }
+
+}
+.leftHead{
+            grid-column: 1 ;
+            grid-row: 1 ;
+            margin: auto ;
+            }
+.middleHead{
+            grid-column: 2 ;
+            grid-row: 1 ;
+            margin: auto ;
+            }
+.rightHead{
+            grid-column: 3 ;
+            grid-row: 1 ;
+            margin: auto ;
+            }    
+
+
+
+    
+
     
     .left{
     display: inline-flex ;
