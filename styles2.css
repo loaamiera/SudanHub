@@ -41,7 +41,7 @@ header{
                     list-style-type: none;
                     li{
                         padding: 2.5% ;
-                        align-self: center ;
+                        align-items: center ;
                       }
                 }
             }
@@ -72,18 +72,15 @@ body{
 .leftHead{
             grid-column: 1 ;
             grid-row: 1 ;
-            align-self: center ;
         }
 .middleHead{
             grid-column: 2 ;
             grid-row: 1 ;
-            align-self: center ;
         }
 
 .rightHead{
             grid-column: 3 ;
             grid-row: 1 ;
-            align-self: center ;
         }
 .topLeft{
         grid-column: 1;
