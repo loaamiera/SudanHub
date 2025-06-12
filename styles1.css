@@ -34,7 +34,6 @@ main{
             background-color: white ;
             text-align: center ;
             font-size: 1.25em ;
-            align-self: center ;
             }
 
         ul{     
@@ -46,7 +45,6 @@ main{
                 li a:hover {color: rgb(0, 199, 6) ;}
                 li {
                     padding: 8% ;
-                    align-self: stretch ;
                 }
                 
         }
