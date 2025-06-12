@@ -16,7 +16,8 @@ section {
     nav ul {
         align-items: center ; }
     nav li { 
-        align-self: center ; }
+        align-self: center ; 
+    }
 header{
         display: grid ;
         margin-left: auto ;
