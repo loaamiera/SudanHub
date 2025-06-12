@@ -21,6 +21,7 @@ header{
             width: 20% ;
         }
         nav{     
+                align-items: stretch ;
                 display: inline-flex ;
                 flex-direction: row ;
                 .buttonHead{
