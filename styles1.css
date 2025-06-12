@@ -37,9 +37,9 @@ main{
 
             }
         
-        align-content: space-between ;     
+ 
 
-        ul{      
+        ul{     align-content: space-between ;    
 
                 list-style-type: none;
                 text-align:  center ;
