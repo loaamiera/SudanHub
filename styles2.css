@@ -39,7 +39,7 @@ header{
                     li a:hover {color: rgb(235, 36, 36) ;}
                     list-style-type: none;
                     li{
-                        justify-self: center ;
+                        pading: 2.5% ;
                       }
                 }
             }
