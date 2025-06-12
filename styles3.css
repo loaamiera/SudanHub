@@ -4,7 +4,6 @@ html{
 
 
 .headGrid{
-    
             display: grid ;
             justify-items: stretch;
             justify-items: center;
@@ -22,7 +21,9 @@ header{
             width: 20% ;
         }
         nav{     
-;
+                display: inline-flex ;
+                flex-direction: row ;
+
                 .buttonHead{
                                 border: solid ;
                                 border-width: 4.5px ;
@@ -36,6 +37,7 @@ header{
                     li a:visited {color: rgb(16, 128, 21) ; }
                     li a:hover {color: rgb(235, 36, 36) ;}
                     list-style-type: none;
+                    align-items: center ;
                     li{
                         padding: 5% ;
                         
@@ -56,9 +58,6 @@ header{
                 border-color: rgb(16, 128, 21) ;
                 justify-self: stretch ;
         }
-        .buttonMain: firstChild {
-            height: 600px ;
-            width: 1200px ; }
             text-align: center ;
             ul{
             margin:auto ;
