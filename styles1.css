@@ -7,18 +7,14 @@ header{
         margin-left: auto ;
         margin-right: auto ;
         vertical-align: center ;
+        h1,h2,h3{
+        margin-bottom: 2% !important;
+        color: rgb(235, 36, 36) ;
+        }
     
 }
 
-h1,h2,h3{
-    text-align:  center ;
-    vetical-align: center ;
-    justify-content: center ;
-    margin-left: auto ;
-    margin-right: auto ;
-    margin-bottom: 2% !important;
-    color: rgb(235, 36, 36) ;
-}
+
 
 
 main{
@@ -32,6 +28,7 @@ main{
     nav{
         display: inline-flex ;
         flex-direction: column ;
+        align-items: center ;
         .button{
             border: solid ;
             border-width: 6px ;
