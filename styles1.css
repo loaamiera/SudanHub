@@ -19,6 +19,7 @@ h1,h2,h3{
 }
 
 main{
+    display: flexbox ;
     vertical-align: center ;
     text-align: center ;
     margin-left: auto ;
