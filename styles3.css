@@ -12,8 +12,11 @@ html{
     
     }
 
-section ul {
-    align-items: center ; }
+section {
+    nav ul {
+        align-items: center ; }
+    nav li { 
+        align-self: center ; }
 header{
         display: grid ;
         margin-left: auto ;
