@@ -39,7 +39,7 @@ main{
  
 
         ul{      
-                align-items: center ;
+            
                 list-style-type: none;
                 text-align:  center ;
                 li a:link {color: black ;}
