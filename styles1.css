@@ -33,10 +33,9 @@ main{
             font-size: 1.25em ;
             padding-left: 2.5% ;
             padding-right: 2.5% ;
-            align-self: stretch ;
 
             }
-        
+        align-items: stretch ;
  
 
         ul{     align-content: space-between ;    
