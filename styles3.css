@@ -39,7 +39,8 @@ header{
                     li a:hover {color: rgb(235, 36, 36) ;}
                     list-style-type: none;
                     li{
-                        padding: 2.5% ;
+                        align-self: center ;
+                        padding: 5% ;
                       }
                 }
             }
