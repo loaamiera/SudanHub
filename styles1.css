@@ -22,6 +22,8 @@ section ul {
     align-items: center ;
     justify-content: space-evenly ;
         }
+section  li {
+              padding: 5% ; }
 main{
     display: inline-flex ;
     flex-direction: column ;
@@ -50,8 +52,6 @@ main{
                 li a:link {color: black ;}
                 li a:visited {color: rgb(16, 128, 21) ;}
                 li a:hover {color: rgb(0, 199, 6) ;}
-                li {
-                        padding: 5% ; }
                 
         }
     }
