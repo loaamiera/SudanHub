@@ -24,7 +24,6 @@ main{
     margin-left: auto ;
     margin-right: auto ;
     nav{
-        align-items: center ;
         .button{
             border: solid ;
             border-width: 6px ;
@@ -39,7 +38,8 @@ main{
 
  
 
-        ul{     
+        ul{      
+                align-items: center ;
                 list-style-type: none;
                 text-align:  center ;
                 li a:link {color: black ;}
