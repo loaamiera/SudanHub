@@ -36,18 +36,18 @@ main{
             padding-right: 2.5% ;
             }
         
-        align-content: space-between ;
+        
 
         ul{      
-            
+                align-content: space-between ;
+                align-items: stretch ;
                 list-style-type: none;
                 text-align:  center ;
                 li a:link {color: black ;}
                 li a:visited {color: rgb(16, 128, 21) ;}
                 li a:hover {color: rgb(0, 199, 6) ;}
-                align-items: stretch ;
                 li { 
-                      margin: auto ;   }
+                         }
                 
         }
     }
