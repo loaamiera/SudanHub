@@ -29,7 +29,7 @@ main{
     nav{
         display: inline-flex ;
         flex-direction: column ;
-        align-items: center ;
+        align-items: strech ;
         .button{
             border: solid ;
             border-width: 6px ;
