@@ -119,7 +119,7 @@ figure{
     vertical-align: center;
     margin: auto ;
     text-align: center ;
-    vertical-align: center ;
+    align-items: center ;
     padding-top: 5% ;
     }
 .clear{
