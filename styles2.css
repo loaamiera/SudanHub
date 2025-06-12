@@ -31,7 +31,7 @@ header{
                                 border-color: rgb(16, 128, 21) ;
                                 }
                 ul{ 
-                    display: inline-flexbox ;
+                    display: inline-flex ;
                     flex-direction: row ;
                     li a:link {color: black ;}
                     li a:visited {color: rgb(16, 128, 21) ; }
