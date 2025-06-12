@@ -1,5 +1,6 @@
 html{
     overflow: auto ;
+    justify-content: center ;
 }
 
 header{
@@ -113,7 +114,6 @@ section{
     flex-direction: column ;
     margin: auto ;
     text-align: center ;
-    align-content: center ;
     padding-top: 5% ;
     }
 .clear{
