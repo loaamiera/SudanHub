@@ -24,7 +24,7 @@ main{
     text-align: center ;
     margin-left: auto ;
     margin-right: auto ;
-    align-content: center ;
+    flex-direction: column ;
     nav{
         .button{
             border: solid ;
@@ -36,7 +36,7 @@ main{
             padding-left: 2.5% ;
             padding-right: 2.5% ;
             }
- 
+     justify-items: center ;
 
         ul{     align-content: space-between ;    
                 list-style-type: none;
