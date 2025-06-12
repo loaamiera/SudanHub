@@ -73,20 +73,17 @@ body{
             grid-column: 1 ;
             grid-row: 1 ;
             align-self: center ;
-            margin: auto ;
         }
 .middleHead{
             grid-column: 2 ;
             grid-row: 1 ;
             align-self: center ;
-            margin: auto ;
         }
 
 .rightHead{
             grid-column: 3 ;
             grid-row: 1 ;
             align-self: center ;
-            margin: auto ;
         }
 .topLeft{
         grid-column: 1;
