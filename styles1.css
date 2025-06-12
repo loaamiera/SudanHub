@@ -38,6 +38,7 @@ main{
 
         ul{     
                 align-items: center ;
+                justify-content: space-between ;
                 list-style-type: none;
                 text-align:  center ;
                 li a:link {color: black ;}
