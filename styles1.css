@@ -27,6 +27,7 @@ main{
     margin-right: auto ;
 
     nav{
+        align-items: center ;
         display: inline-flex ;
         flex-direction: column ;
         .button{
