@@ -31,8 +31,9 @@ header{
                                 border-color: rgb(16, 128, 21) ;
                                 justify-self: strech ;
                                 }
-                justify-items: stretch ;
+
                 ul{
+                    justify-items: stretch ;
                     li a:link {color: black ;}
                     li a:visited {color: rgb(16, 128, 21) ; }
                     li a:hover {color: rgb(235, 36, 36) ;}
