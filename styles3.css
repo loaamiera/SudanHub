@@ -19,7 +19,6 @@ header{
             width: 20% ;
         }
         nav{     
-                place-items: center-stretch ;
                 .buttonHead{
                                 border: solid ;
                                 border-width: 4.5px ;
