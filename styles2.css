@@ -30,11 +30,11 @@ header{
                 .buttonHead{
                                 border: solid ;
                                 border-width: 4.5px ;
-                                padding: 8% ;
                                 border-color: rgb(16, 128, 21) ;
                                 }
                 ul{ 
                     align-self: stretch ;
+                    justify-self: stretch  ;
                     li a:link {color: black ;}
                     li a:visited {color: rgb(16, 128, 21) ; }
                     li a:hover {color: rgb(235, 36, 36) ;}
