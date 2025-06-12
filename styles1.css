@@ -115,6 +115,7 @@ section{
     margin: auto ;
     text-align: center ;
     align-items: center ;
+    align-content: center ;
     justify-content: center ;
     padding-top: 5% ;
     }
