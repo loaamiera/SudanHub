@@ -18,17 +18,19 @@ header{
         margin-left: auto ;
         margin-right: auto ;
         margin-bottom: 6% ;
+        horizontal-align: center ;
         img{
             width: 20% ;
         }
         nav{    
-                horizontal-align: center ;
                 .buttonHead{
                                 border: solid ;
                                 border-width: 4.5px ;
                                 padding: 8% ;
                                 border-color: rgb(16, 128, 21) ;
                                 justify-self: strech ;
+                                padding-top: 2.5% ;
+                                padding-down: 2.5% ;
                             }
         
                 ul{
@@ -38,7 +40,6 @@ header{
                     li a:hover {color: rgb(235, 36, 36) ;}
                     list-style-type: none;
                     li{
-                        padding: 10% ;
                       }
                 }
             }
