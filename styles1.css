@@ -80,13 +80,16 @@ a{
     }
 
 
-
-
+video{
+    display: inline-flex ;
+    flex-direction: column ; }
 
 
 
 
 figure{
+    display: inline-flex ;
+    flex-direction: column ;
     margin-top: 4% ;
     margin-bottom: 4% ;
     caption{ 
