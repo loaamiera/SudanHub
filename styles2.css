@@ -8,7 +8,6 @@ html{
             grid-template-columns: auto  auto  auto ;
             grid-template-rows: auto; 
             horizontal-align: center ;
-            align-items: center ;
     
     }
 
@@ -40,7 +39,6 @@ header{
                     list-style-type: none;
                     li{
                         padding: 2.5% ;
-                        align-items: center ;
                       }
                 }
             }
