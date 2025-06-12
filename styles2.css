@@ -8,6 +8,7 @@ html{
             grid-template-columns: auto  auto  auto ;
             grid-template-rows: auto; 
             horizontal-align: center ;
+            align-items: center ;
     
     }
 
@@ -18,20 +19,19 @@ header{
         margin-left: auto ;
         margin-right: auto ;
         margin-bottom: 6% ;
-        horizontal-align: center ;
         img{
             width: 20% ;
         }
         nav{     
                 display: inline-flex ;
                 flex-direction: row ;
-                justify-items: center ;
                 .buttonHead{
                                 border: solid ;
                                 border-width: 4.5px ;
                                 border-color: rgb(16, 128, 21) ;
                                 text-align: center ;
-                                }
+                                align-self: center ;
+                }
                 ul{ 
                     align-items: center ;
                     li a:link {color: black ;}
