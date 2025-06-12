@@ -30,7 +30,6 @@ header{
                                 border-color: rgb(16, 128, 21) ;
                                 justify-self: strech ;
                                 }
-                justify-items: stretch ;
                 ul{ 
                     display: inline-flexbox ;
                     flex-direction: row ;
