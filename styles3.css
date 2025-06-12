@@ -16,8 +16,10 @@ section {
     nav ul {
         align-items: center ; }
     nav li { 
-        align-self: center ; 
+        align-self: center ;
+        padding: 5% ;
     }
+}
 header{
         display: grid ;
         margin-left: auto ;
@@ -46,7 +48,7 @@ header{
                     list-style-type: none;
                     li{
                         align-items: center ;
-                        padding: 5% ;
+                        
                       }
                 }
         }
