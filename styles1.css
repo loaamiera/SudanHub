@@ -24,8 +24,8 @@ section ul {
     justify-content: space-evenly ;
         }
 section  li {
-            align-items: center ;
-              padding: 10% ; }
+            align-items: stretch ;
+            padding:  10% ; }
 main{
     display: inline-flex ;
     flex-direction: column ;
@@ -44,7 +44,6 @@ main{
             background-color: white ;
             text-align: center ;
             font-size: 1.25em ;
-            align-self: center ;
             }
 
         ul{     
