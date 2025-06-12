@@ -48,7 +48,6 @@ header{
     min-height: 400px;
     text-align: center ;
     nav{    
-            justify-items: center ;
             margin:auto ;
             .buttonMain{
                 border: solid ;
