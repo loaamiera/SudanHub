@@ -7,9 +7,9 @@ html{
     
             display: grid ;
             justify-items: stretch;
+            justify-items: center;
             grid-template-columns: auto  auto  auto ;
             grid-template-rows: auto; 
-            align-items: center ;
     
     }
 
