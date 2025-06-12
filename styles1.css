@@ -36,9 +36,8 @@ main{
             padding-left: 2.5% ;
             padding-right: 2.5% ;
             }
-     justify-items: center ;
 
-        ul{     align-content: space-between ;    
+        ul{       
                 list-style-type: none;
                 text-align:  center ;
                 li a:link {color: black ;}
