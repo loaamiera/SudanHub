@@ -24,7 +24,7 @@ section ul {
     justify-content: space-evenly ;
         }
 section  li {
-              padding: 5% ; }
+              padding: 10% ; }
 main{
     display: inline-flex ;
     flex-direction: column ;
