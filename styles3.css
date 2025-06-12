@@ -7,7 +7,6 @@ html{
             display: grid ;
             grid-template-columns: auto  auto  auto ;
             grid-template-rows: auto; 
-            align-items: center ;
     
     }
 
@@ -78,15 +77,17 @@ header{
             grid-column: 1 ;
             grid-row: 1 ;
             margin: auto ;
+            align-self: center ;
             }
 .middleHead{
             grid-column: 2 ;
             grid-row: 1 ;
             margin: auto ;
+            align-self: center ;
             }
 .rightHead{
-            display: inline-flex ;
-            flex-direction: row ;
+            display: inline-flex !important ;
+            flex-direction: row !important ;
             grid-column: 3 ;
             grid-row: 1 ;
             }    
