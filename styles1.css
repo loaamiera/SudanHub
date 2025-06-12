@@ -19,13 +19,6 @@ h1,h2,h3{
 }
 
 
-section ul {
-    align-items: center ;
-    justify-content: space-evenly ;
-        }
-section  li {
-            align-items: stretch ;
-            padding:  10% ; }
 main{
     display: inline-flex ;
     flex-direction: column ;
