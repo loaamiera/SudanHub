@@ -21,7 +21,7 @@ header{
         img{
             width: 20% ;
         }
-        nav{     align-items: center ;
+        nav{     
 
                 .buttonHead{
                                 border: solid ;
@@ -37,7 +37,7 @@ header{
                     li a:hover {color: rgb(235, 36, 36) ;}
                     list-style-type: none;
                     li{
-                        justify-self: stretch ;
+                        align-items: center ;
                       }
                 }
             }
