@@ -29,6 +29,7 @@ main{
     nav{
         display: inline-flex ;
         flex-direction: column ;
+        align-items: center ;
         .button{
             border: solid ;
             border-width: 6px ;
@@ -38,11 +39,11 @@ main{
             font-size: 1.25em ;
             padding-left: 2.5% ;
             padding-right: 2.5% ;
-            align-items: center ;
             align-self: center ;
             }
 
-        ul{       
+        ul{     
+                align-self: stretch ;
                 list-style-type: none;
                 text-align:  center ;
                 li a:link {color: black ;}
