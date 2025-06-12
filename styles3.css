@@ -13,8 +13,8 @@ html{
     }
 
 section{
-    align-items: center ;
-    header{
+    align-items: center ; }
+header{
         display: grid ;
         margin-left: auto ;
         margin-right: auto ;
@@ -81,7 +81,7 @@ section{
 
     }
 
-}
+
 .leftHead{
             grid-column: 1 ;
             grid-row: 1 ;
