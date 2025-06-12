@@ -12,7 +12,15 @@ html{
     
     }
 
-
+section{
+    nav ul {
+        horizontal-align: center ;
+        align-items: center ; }
+    nav li { 
+        align-items: center ;
+        padding: 10% ;
+    }
+}
 header{
         display: grid ;
         margin-left: auto ;
@@ -208,10 +216,5 @@ a{
     flex-direction: column ;
     margin: auto ;
     text-align: center ;
-    nav ul {
-        align-items: center ; }
-    nav li { 
-        align-self: center ;
-        padding: 5% ;
-    }
+
     }
