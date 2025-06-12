@@ -22,8 +22,16 @@ header{
         img{
             width: 20% ;
         }
-        nav{    
-                .buttonHead{
+        nav{     justify-items: center ;
+
+        
+                ul{
+                    li a:link {color: black ;}
+                    li a:visited {color: rgb(16, 128, 21) ; }
+                    li a:hover {color: rgb(235, 36, 36) ;}
+                    list-style-type: none;
+                    li{
+                        .buttonHead{
                                 border: solid ;
                                 border-width: 4.5px ;
                                 padding: 8% ;
@@ -31,15 +39,8 @@ header{
                                 justify-self: strech ;
                                 padding-top: 2.5% ;
                                 padding-down: 2.5% ;
-                            }
-        
-                ul{
-                    justify-items: center ;
-                    li a:link {color: black ;}
-                    li a:visited {color: rgb(16, 128, 21) ; }
-                    li a:hover {color: rgb(235, 36, 36) ;}
-                    list-style-type: none;
-                    li{
+                                justify-self: stretch ;
+                                }
                       }
                 }
             }
