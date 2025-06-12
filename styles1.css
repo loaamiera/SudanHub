@@ -105,9 +105,7 @@ figure{
     color: rgb(16, 128, 21) ;
     }
 
-section{
-    align-self: center ;
-}
+
 
 .column{
     display: inline-flex ;
