@@ -32,7 +32,9 @@ header{
                                 text-align: center ;
                                 align-self: center ;
                 }
-                ul{ 
+
+            }
+            ul{ 
                     align-items: center ;
                     li a:link {color: black ;}
                     li a:visited {color: rgb(16, 128, 21) ; }
@@ -43,7 +45,6 @@ header{
                         padding: 5% ;
                       }
                 }
-            }
         }
 
 
