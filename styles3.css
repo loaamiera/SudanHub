@@ -46,6 +46,8 @@ header{
     min-height: 400px;
     text-align: center ;
     nav{    
+            display: inline-flex;
+            flex-direction: row ;
             margin:auto ;
             .buttonMain{
                 border: solid ;
