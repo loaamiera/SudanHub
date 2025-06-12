@@ -23,7 +23,8 @@ header{
             width: 20% ;
         }
         nav{     
-
+                display: inline-flex ;
+                flex-direction: row ;
                 .buttonHead{
                                 border: solid ;
                                 border-width: 4.5px ;
