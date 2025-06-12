@@ -17,9 +17,8 @@ header{
 
 main{ 
 
-    vertical-align: center ;
-    text-align: center ;
-    margin: auto ;
+    display: inline-flex ;
+    flex-direction: column ;
 
     nav{
         display: inline-flex ;
