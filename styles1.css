@@ -35,10 +35,10 @@ main{
             padding-right: 2.5% ;
             }
         
-            align-content: space-between ;        
+     
 
         ul{      
-
+                align-content: space-between ;   
                 align-items: stretch ;
                 list-style-type: none;
                 text-align:  center ;
