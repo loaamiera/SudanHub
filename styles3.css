@@ -20,8 +20,7 @@ header{
             width: 20% ;
         }
         nav{     
-                display: inline-flex ;
-                flex-direction: row ;
+
                 horizontal-align: center ;
                 .buttonHead{
                                 border: solid ;
@@ -31,7 +30,6 @@ header{
 
             }
             ul{ 
-                    align-items: center ;
                     li a:link {color: black ;}
                     li a:visited {color: rgb(16, 128, 21) ; }
                     li a:hover {color: rgb(235, 36, 36) ;}
