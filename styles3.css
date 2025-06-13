@@ -84,6 +84,7 @@ main{
                 float: right !important ;
                 width: 40% ;
                 padding: 5px ;
+                clear: both ;
     }
     .largeImagetop{
         padding: 15px ;
