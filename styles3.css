@@ -79,7 +79,6 @@ body{
                     margin-left: 50px ;
                 }
     .right{
-                clear: both ;
                 display: inline-flex;
                 flex-direction: column ;
                 float: right !important ;
