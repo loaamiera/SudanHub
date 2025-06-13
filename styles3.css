@@ -84,6 +84,7 @@ main{
                 float: right !important ;
                 width: 40% ;
                 padding-right: 5px ;
+                vertical-align: right ;
     }
     .largeImagetop{
         margin-top: 7% ;
