@@ -79,12 +79,12 @@ body{
                     margin-left: 50px ;
                 }
     .right{
-                display: inline-block;
+                display: inline-flex;
                 flex-direction: column ;
                 float: right !important ;
                 width: 40% ;
-                margin-right: 50px ;
-                margin-left: 55px ;
+                margin-right: 25px ;
+                margin-left: 30px ;
     }
     
     .largeImagetop{
@@ -182,5 +182,4 @@ footer{
     flex-direction: column ;
     margin: auto ;
     text-align: center ;
-    vertical-align: center ;
     }
