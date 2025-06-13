@@ -14,7 +14,6 @@ html{
 
 header{
         display: inline-flex ;
-        margin-bottom: 10px ;
         max-height: 400px ;
         h1{        
             color: rgb(235, 36, 36) ;
@@ -95,18 +94,18 @@ body{
     }
     
     .largeImage{
-        margin-top: 15% ;
+        margin-top: 17% ;
         max-width: 30% ;
         float: right ;
     }
     
     .largerImage{ 
-        margin-top: 17% ;
+        margin-top: 20% ;
         max-width: 17% ;
         float: right ;
         }
         p{
-            max-width: 33%; 
+            max-width: 35%; 
             }
         nav{
                         min-height: 400px ;
