@@ -19,18 +19,13 @@ body {
 }
 
 p{
-        display: inline-flex ;
-        flex-direction: column ;
         margin: auto ;
-        text-align: center ;
         text-align: center ;
         max-width: 44% ;
         margin-bottom: 2%  !important;
         }       
 
 nav{
-                display: inline-flex ;
-                flex-direction: column ;
                 margin: auto ;
                 text-align: center ;
 
