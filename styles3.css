@@ -22,7 +22,7 @@ header{
             flex-direction: row ;
                 .buttonHead{
                                 border: solid ;
-                                border-width: 4.5px ;
+                                border-width: 12.5px ;
                                 border-color: rgb(16, 128, 21) ;
                                 box-sizing: border-box ; 
                                 padding: 5px ;
@@ -39,7 +39,7 @@ header{
                     li a:hover {color: rgb(235, 36, 36) ;}
                     list-style-type: none;
                     li{                   
-                         padding:25px;
+                         padding:12.5px;
                         
                       }
                 }
