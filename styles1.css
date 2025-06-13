@@ -61,6 +61,10 @@ figcaption{
     padding: 10px ;
 }
 
+#largeImage{
+    padding: 2.5px ;
+    width: 50% ;
+}
 
 footer{
         background-color: black ;
