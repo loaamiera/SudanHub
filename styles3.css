@@ -62,7 +62,7 @@ header{
                 grid-row: 1 ;
                 }
     img{
-        width: 20% ;
+        width: 15% ;
     }
 }
 body{       
@@ -103,7 +103,7 @@ main{
         max-width: 17.5% ;
         }
         p{
-            max-width: 25% ; 
+            max-width: 350px; 
             }
         nav{    
                 display: inline-flex;
