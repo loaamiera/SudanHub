@@ -23,7 +23,9 @@ body {
     text-align: center ;
 
     p{
-        padding: 25px ;
+        text-align: center ;
+        margin: auto ;
+        justify-content: center ;
         }
     nav{
         a{
