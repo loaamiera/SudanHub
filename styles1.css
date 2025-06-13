@@ -19,7 +19,6 @@ body{
     text-align: center ;
     main{ 
         p{
-        text-align: center ;
         max-width: 44% ;
         margin-bottom: 2%  !important;
         }
@@ -83,8 +82,8 @@ a{
 
 
 figure{
-    padding: 5% ;
     figcaption{ 
+            padding: 5% ;
              font-size: 0.75em ; 
            }
      }
