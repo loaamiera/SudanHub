@@ -10,7 +10,6 @@ body{
         width: 100% ;
         main{
                     nav{
-                        clear: both ;
                         display: inline-flex;
                         flex-direction: column ;
                 .button{
@@ -73,5 +72,5 @@ footer{
 
 
 .clear{
-
+            clear: both ;
     }
