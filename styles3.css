@@ -90,21 +90,18 @@ body{
     .largeImagetop{
         margin-top: 11% ;
         max-width: 27.5% ;
-        display: inline-block ;
         float: right ;
     }
     
     .largeImage{
         margin-top: 13% ;
         max-width: 30% ;
-        display: inline-block ;
         float: right ;
     }
     
     .largerImage{ 
         margin-top: 12% ;
         max-width: 17% ;
-       display: inline-block ;
         float: right ;
         }
         p{
