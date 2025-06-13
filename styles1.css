@@ -8,6 +8,7 @@ h1,h2,h3{
         }
 
         main{
+                    
                     nav{
                         min-height: 600px ;
                         display: inline-flex;
@@ -23,7 +24,7 @@ h1,h2,h3{
                                     height: 25px ;
         
                     
-                    }
+                    }}
                     ul{     
                         li a:link {color: black ;}
                         li a:visited {color: rgb(16, 128, 21) ; }
