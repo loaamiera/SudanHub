@@ -110,7 +110,7 @@ body{
             }
         nav{
                         min-height: 400px ;
-                        margin: 10px ;
+                        margin: auto ;
                         display: inline-flex;
                         flex-direction: column ;
                         .buttonMain{
@@ -131,6 +131,7 @@ body{
                         li a:hover {color: rgb(0, 199, 6) ;}
                         list-style-type: none;
                         text-decoration: none ;
+                        text-alight: center ;
                        li{
                            padding: 35px;
                        }
