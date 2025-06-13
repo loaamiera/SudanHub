@@ -99,18 +99,16 @@ main, body {
     
 
     
-    .left{
+.left{
     display: inline-flex ;
     flex-direction: column ;
     float: left !important ;
     width: 40% ;
-    margin-left: 5% !important;
     }
-    .right{
+.right{
         display: inline-flex ;
         flex-direction: column ;
         float: right !important ;
-        margin-right: 5% !important;
         width: 40% ;
     }
     
