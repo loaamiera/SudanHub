@@ -178,7 +178,7 @@ footer{
 
 
 .clear{
-    clear:clear ;
+    clear: both ;
 }
 .column{
     display: inline-flex ;
