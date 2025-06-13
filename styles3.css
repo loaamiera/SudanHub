@@ -13,16 +13,7 @@ html{
 h1{        
             color: rgb(235, 36, 36) ;
         }
-header{
-        margin-bottom: 6% ;
-        max-height: 400px ;
-        img{
-            width: 20% ;
-        }
-        nav{    
-            display: inline-flex;
-            flex-direction: row ;
-                .buttonHead{
+.buttonHead{
                                 border: solid ;
                                 border-width: 5px ;
                                 border-color: rgb(16, 128, 21) ;
@@ -33,6 +24,15 @@ header{
     
                     
                 }
+header{
+        margin-bottom: 6% ;
+        max-height: 400px ;
+        img{
+            width: 20% ;
+        }
+        nav{    
+            display: inline-flex;
+            flex-direction: row ;
 
             }
             ul{     padding:12.5px;
@@ -115,7 +115,6 @@ main, body {
         float: right !important ;
         width: 40% ;
         margin-inline: 2.5% ;
-        vertical-align: middle ;
     }
     
 
@@ -164,7 +163,7 @@ footer{
 
 .largeImagetop{
     width: 30% ; 
-    margin-top: 9% :
+    margin-top: 15% :
     display: inline-block ;
 }
 
