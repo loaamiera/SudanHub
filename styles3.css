@@ -18,9 +18,7 @@ header{
         h1{        
             color: rgb(235, 36, 36) ;
         }
-        img{
-            width: 20% ;
-        }
+
         nav{    
             display: inline-flex;
             flex-direction: row ;
@@ -100,8 +98,8 @@ main{
         float: right !important ;
         max-width: 12.5% ;
         }
-    p{
-        width: 15% ; }
+        p{
+            max-width: 25% ; }
         nav{    
                 display: inline-flex;
                 flex-direction: column ;
