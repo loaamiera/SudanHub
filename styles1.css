@@ -13,12 +13,13 @@ body{
                         display: inline-flex;
                         flex-direction: column ;
                 .button{
+                                    font-size: 1.25em ;
                                     border: solid ;
                                     border-width: 10px ;
                                     border-color: rgb(16, 128, 21) ;
                                     box-sizing: border-box ; 
-                                    padding: 15px ;
-                                    width: 50px ;
+                                    padding: 25px ;
+                                    width: 75px ;
                                     height: 25px ;
         
                     
