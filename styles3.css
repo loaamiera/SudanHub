@@ -37,6 +37,8 @@ header{
                     li a:visited {color: rgb(16, 128, 21) ; }
                     li a:hover {color: rgb(235, 36, 36) ;}
                     list-style-type: none;
+                   li{
+                       padding: 12.5px;
                 }
         }
 main{
@@ -77,18 +79,16 @@ main, body {
 .leftHead{
             grid-column: 1 ;
             grid-row: 1 ;
-            margin: auto ;
-            align-self: center ;
             }
 .middleHead{
             grid-column: 2 ;
             grid-row: 1 ;
             margin: auto ;
-            align-self: center ;
             }
 .rightHead{
             display: inline-flex !important ;
             flex-direction: row !important ;
+            margin: auto ;
             grid-column: 3 ;
             grid-row: 1 ;
             }    
@@ -109,7 +109,7 @@ main, body {
         display: inline-flex ;
         flex-direction: column ;
         float: right !important ;
-        margin-right: 5% ;
+        margin-right: 5% !important;
         width: 40% ;
     }
     
@@ -121,11 +121,8 @@ main, body {
 
 p{
     text-align: center ;
-    margin: auto ;
     width: 33% ;
-    margin-left: auto ;
-    margin-right: auto ;
-    margin-top: 8% ;
+    margin-top: 8% !important ;
     margin-bottom: 4%  !important;
 }
 
