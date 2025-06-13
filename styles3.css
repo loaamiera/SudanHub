@@ -83,8 +83,8 @@ body{
                 flex-direction: column ;
                 float: right !important ;
                 width: 45% ;
-                margin-right: 25px ;
                 margin-left: 20px ;
+                vertical-alignment: right ;
     }
     
     .largeImagetop{
