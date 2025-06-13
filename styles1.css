@@ -72,7 +72,7 @@ footer{
 
 #largeImage{
     width: 25% ; 
-    display: inline-block ;
+    margin: auto ;
 }
 
 a{
@@ -83,6 +83,7 @@ a{
 
 video{
     display: inline-block ;
+    margin: auto ;
 }
 
 
