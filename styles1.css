@@ -28,7 +28,10 @@ p{
         margin-bottom: 2%  !important;
         }       
 
-
+script{
+    display: inline-flex ;
+    flex-direction: column ;
+}
 
 ul{    
                     list-style-type: none;
