@@ -11,7 +11,7 @@ h1,h2,h3{
                     width: 100% ;
                     min-height: 800px ;
                     nav{
-                        min-height: 500px ;
+                        min-height: 400px ;
                         display: inline-flex;
                         flex-direction: column ;
                         .button{
@@ -21,7 +21,7 @@ h1,h2,h3{
                                     border-color: rgb(16, 128, 21) ;
                                     box-sizing: border-box ; 
                                     padding: 25px ;
-                                    width: 150px ;
+                                    width: 100px ;
                                     height: 25px ;
         
                     
@@ -33,7 +33,7 @@ h1,h2,h3{
                         list-style-type: none;
                         text-decoration: none ;
                        li{
-                           padding: 25px;
+                           padding: 20px;
                        }
                   }
         }
