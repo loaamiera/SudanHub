@@ -42,10 +42,12 @@ p{
                     }
     }
     figure{
-    figcaption{ 
-            padding: 10px ;
-             font-size: 0.75em ; 
-           }
+        width: 33% ;
+        display: inline-flex ;
+        figcaption{ 
+                padding: 10px ;
+                 font-size: 0.75em ; 
+               }
      }
 
 }
