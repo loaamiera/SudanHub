@@ -19,17 +19,12 @@ body {
 }
 
 p{
-        margin: auto ;
         text-align: center ;
         max-width: 44% ;
         margin-bottom: 2%  !important;
         }       
 
-nav{
-                margin: auto ;
-                text-align: center ;
 
-}
 
 ul{    
                     list-style-type: none;
