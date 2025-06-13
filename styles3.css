@@ -114,7 +114,6 @@ main {
 .right{
         display: inline-flex ;
         flex-direction: column ;
-        float: right !important ;
         width: 40% ;
         margin-inline: 2.5% ;
     }
@@ -166,19 +165,22 @@ footer{
 .largeImagetop{
     width: 30% ; 
     margin-top: 15% :
-    display: inline-block ;
+    display: inline-flex ;
+    float: right !important ;
 }
 
 .largeImage{
     width: 30% ; 
     margin-top: 22% ;
-    display: inline-block ;
+    display: inline-flex ;
+    float: right !important ;
 }
 
 .largerImage{
     width: 15% ; 
     margin-top: 15% ;
-    display: inline-block ;
+    display: inline-flex ;
+    float: right !important ;
 }
 
 a{
