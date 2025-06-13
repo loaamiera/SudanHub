@@ -22,6 +22,8 @@ header{
         nav{    
             display: inline-flex;
             flex-direction: row ;
+            text-align: center ;
+            vertical-align: middle ;
             .buttonHead{
                                 border: solid ;
                                 border-width: 5px ;
