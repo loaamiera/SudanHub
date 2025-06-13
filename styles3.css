@@ -115,6 +115,7 @@ body{
                         margin: 10px ;
                         display: inline-flex;
                         flex-direction: column ;
+                        vertical-align: middle ;
                         .button{
                                     font-size: 1.25em ;
                                     border: solid ;
@@ -193,5 +194,5 @@ footer{
     display: inline-flex ;
     flex-direction: column ;
     margin: auto ;
-    text-align: center ;
+    text-align: center !important ;
     }
