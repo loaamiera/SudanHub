@@ -12,7 +12,8 @@ header{
     
 }
 
-
+body{   
+    margin: auto ; }
 
 
 main{ 
@@ -82,7 +83,6 @@ a{
 
 
 video{
-    display: inline-block ;
     margin: auto ;
 }
 
