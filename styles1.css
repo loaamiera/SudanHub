@@ -87,6 +87,7 @@ footer{
 
 
 figure{
+    width: 25% ;
     figcaption{ 
             padding: 5% ;
              font-size: 0.75em ; 
