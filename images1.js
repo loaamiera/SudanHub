@@ -4,8 +4,8 @@
 var flag = document.getElementById("largeImage");
 
 
-flag.onclick = function flag() {
-  altmessage.innerHTML.src = 'diffFlag.png'
+flag.onMouseOver = function different() {
+  flag.innerHTML.src = 'diffFlag.png'
 
 } ;
 
