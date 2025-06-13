@@ -86,19 +86,19 @@ main{
     .largeImagetop{
         padding: 35px ;
         float: right !important ;
-        width: 25% ;
+        max-width: 25% ;
     }
     
     .largeImage{
         padding: 25px ;
         float: right !important ;
-        width: 30% ;
+        max-width: 30% ;
     }
     
     .largerImage{ 
         padding: 15px ;
         float: right !important ;
-        width: 15% ;
+        max-width: 15% ;
         }
         nav{    
                 display: inline-flex;
