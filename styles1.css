@@ -6,6 +6,8 @@ header{
         h1,h2,h3{
         margin-bottom: 2% !important;
         text-ailgn: center ;
+        justify-content: center ;
+        margin: auto ;
         color: rgb(235, 36, 36) ;
         }
 
@@ -16,6 +18,7 @@ body {
     flex-direction: column ;
     margin: auto ;
     text-align: center ;
+    justify-content: center ;
 
 }
 
@@ -49,7 +52,6 @@ ul{
 
 
 footer{
-        display: block ;
         background-color: black ;
         text-align: center ;
         margin-top: 4% ;
@@ -78,10 +80,6 @@ a{
 
 
 figure{
-    display: inline-flex ;
-    flex-direction: column ;
-    margin: auto ;
-    text-align: center ;
     figcaption{ 
             padding: 5% ;
              font-size: 0.75em ; 
