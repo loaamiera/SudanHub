@@ -177,20 +177,8 @@ footer{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 .clear{
-    clear: both ;
+    clear:clear ;
 }
 .column{
     display: inline-flex ;
