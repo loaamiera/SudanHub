@@ -87,9 +87,11 @@ main{
                 margin-right: 55px ;
                 margin-left: 105px ;
     }
+    
     .largeImagetop{
         margin-top: 7% ;
         max-width: 27.5% ;
+        display: inline-block ;
     }
     
     .largeImage{
