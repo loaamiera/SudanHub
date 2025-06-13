@@ -10,16 +10,15 @@ header{
 
     
 }
-
-
-
-body, section {
+body {
     display: inline-flex ;
     flex-direction: column ;
     margin: auto ;
     text-align: center ;
-    main{ 
-        p{
+
+}
+
+p{
         display: inline-flex ;
         flex-direction: column ;
         margin: auto ;
@@ -27,14 +26,26 @@ body, section {
         text-align: center ;
         max-width: 44% ;
         margin-bottom: 2%  !important;
-        }
-    
-        nav{
+        }       
+
+nav{
                 display: inline-flex ;
                 flex-direction: column ;
                 margin: auto ;
                 text-align: center ;
-            .button{
+
+}
+
+ul{    
+                    list-style-type: none;
+                    li a:link {color: black ;}
+                    li a:visited {color: rgb(16, 128, 21) ;}
+                    li a:hover {color: rgb(0, 199, 6) ;}
+                    li {
+                        padding-block: 10% ;
+}
+    
+.button{
                 border: solid ;
                 border-width: 6px ;
                 border-color: rgb(16, 128, 21) ;
@@ -42,28 +53,12 @@ body, section {
                 text-align: center ;
                 font-size: 1.25em ;
                 }
-    
-            ul{    
-                    list-style-type: none;
-                    li a:link {color: black ;}
-                    li a:visited {color: rgb(16, 128, 21) ;}
-                    li a:hover {color: rgb(0, 199, 6) ;}
-                    li {
-                        padding-block: 10% ;
-                    }
-                    
-            }
-        }
-    }
-}
 
 
 
 
 
-
-div{
-    footer{
+footer{
         display: block ;
         background-color: black ;
         text-align: center ;
@@ -73,7 +68,6 @@ div{
         word-spacing: 12.5px ;
         color: white ;
         width: 100% ;
-    }
 }
 
 
