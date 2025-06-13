@@ -17,7 +17,7 @@ body{
                                     border-width: 10px ;
                                     border-color: rgb(16, 128, 21) ;
                                     box-sizing: border-box ; 
-                                    padding: 100px ;
+                                    padding: 150px ;
                                     width: 600px ;
                                     height: 300px ;
         
@@ -47,11 +47,15 @@ body{
     }
 
 
-p{
+p{    
+    margin-bottom: 25px ;
      width: 33% ;}
 
     
-
+figcaption{
+    font-size: 0.75em;
+    padding: 10px ;
+}
 
 
 footer{
