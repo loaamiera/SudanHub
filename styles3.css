@@ -76,14 +76,14 @@ main{
                     flex-direction: column ;
                     float: left !important ;
                     width: 40% ;
-                    padding: 250px ;
+                    padding: 50px ;
                 }
         .right{
                 display: inline-flex;
                 flex-direction: column ;
                 float: right !important ;
                 width: 40% ;
-                padding: 250px ;
+                padding: 50px ;
     }
     .largeImagetop{
         padding: 35px ;
@@ -103,7 +103,8 @@ main{
         max-width: 17.5% ;
         }
         p{
-            max-width: 350px; 
+            text-align: center ;
+            max-width: 300px; 
             }
         nav{    
                 display: inline-flex;
