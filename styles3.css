@@ -79,6 +79,7 @@ body{
                     margin-left: 50px ;
                 }
     .right{
+                clear: both ;
                 display: inline-flex;
                 flex-direction: column ;
                 float: right !important ;
@@ -95,14 +96,14 @@ body{
     }
     
     .largeImage{
-        margin-top: 15% ;
+        margin-top: 13% ;
         max-width: 30% ;
         display: inline-block ;
         float: right ;
     }
     
     .largerImage{ 
-        margin-top: 15% ;
+        margin-top: 12% ;
         max-width: 17% ;
        display: inline-block ;
         float: right ;
@@ -110,7 +111,7 @@ body{
         p{
             max-width: 200px; 
             }
-            nav{
+        nav{
                         min-height: 400px ;
                         margin: 10px ;
                         display: inline-flex;
