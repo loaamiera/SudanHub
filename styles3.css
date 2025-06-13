@@ -110,27 +110,34 @@ body{
         p{
             max-width: 200px; 
             }
-        nav{    
-                display: inline-flex;
-                flex-direction: column ;
-                .buttonMain{
-                    border: solid ;
-                    border-width: 6px ;
-                    margin-top: 15%  !important;
-                    margin-bottom: 15%  !important;
-                    border-color: rgb(16, 128, 21) ;
-                }
-                ul{
-                list-style-type: none ;
-                li a:link {color: black ; }
-                li a:visited {color: rgb(16, 128, 21) ; }
-                li a:hover {color: rgb(0, 199, 6) ;}
-                li{
-                        margin-top: 5% ;
-                        margin-bottom: 5% ;
-                        font-size: 1.25em ;
+            nav{
+                        min-height: 400px ;
+                        margin: 10px ;
+                        display: inline-flex;
+                        flex-direction: column ;
+                        .button{
+                                    font-size: 1.25em ;
+                                    border: solid ;
+                                    border-width: 10px ;
+                                    border-color: rgb(16, 128, 21) ;
+                                    box-sizing: border-box ; 
+                                    padding: 15px ;
+                                    width: 50px ;
+                                    height: 20px ;
+        
+                    
                     }
-                }}
+            ul{     
+                        li a:link {color: black ;}
+                        li a:visited {color: rgb(16, 128, 21) ; }
+                        li a:hover {color: rgb(0, 199, 6) ;}
+                        list-style-type: none;
+                        text-decoration: none ;
+                       li{
+                           padding: 35px;
+                       }
+                    }
+                  }
             .largeText{
                 font-size: 2.5em ;
                 color: rgb(16, 128, 21) ;
