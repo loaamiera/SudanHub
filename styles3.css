@@ -63,11 +63,16 @@ header{
                 }
 }
 body{       
-        .left{
+
+    
+    
+main{
+    min-height: 800px ; 
+    .left{
                     display: inline-flex;
                     flex-direction: column ;
                     float: left !important ;
-                    width: 40% ;
+                    width: 50% ;
                     margin-left: 5% ;
                     padding: 250px ;
                 }
@@ -75,14 +80,10 @@ body{
                 display: inline-flex;
                 flex-direction: column ;
                 float: right !important ;
-                width: 40% ;
+                width: 50% ;
                 margin-right: 5% ;
                 padding: 250px ;
     }
-    
-    
-main{
-    min-height: 800px ; 
     .largeImagetop{
         padding: 35px ;
         float: right !important ;
@@ -127,8 +128,6 @@ main{
                 font-size: 2.5em ;
                 color: rgb(16, 128, 21) ;
                 text-align: center  ;
-                margin-left: auto ;
-                margin-right: auto ;
                 margin-bottom: 4% ;
                 }
             
