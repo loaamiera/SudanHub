@@ -100,6 +100,8 @@ main{
         float: right !important ;
         max-width: 7.5% ;
         }
+    p{
+        width: 33% ; }
         nav{    
                 display: inline-flex;
                 flex-direction: column ;
