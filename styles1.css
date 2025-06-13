@@ -9,9 +9,9 @@ h1,h2,h3{
 
         main{
                     width: 100% ;
-                    
+                    min-height: 800px ;
                     nav{
-                        min-height: 600px ;
+                        min-height: 500px ;
                         display: inline-flex;
                         flex-direction: column ;
                         .button{
@@ -44,7 +44,7 @@ h1,h2,h3{
     flex-direction: column ;
     margin: auto ;
     text-align: center ;
-    vertical-align: center ;
+    vertical-align: middle ;
     }
 
 
