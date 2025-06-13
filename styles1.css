@@ -16,7 +16,7 @@ header{
 }
 
 
-body {
+body, section {
     display: inline-flex ;
     flex-direction: column ;
     margin: auto ;
