@@ -21,7 +21,6 @@ main{
     margin: auto ;
     display: inline-flex ;
     flex-direction: column ;
-    justify-content: center ;
 
     nav{
         vertical-align: middle ;
@@ -82,9 +81,7 @@ a{
     }
 
 
-video{
-    margin: auto ;
-}
+
 
 
 
@@ -94,6 +91,8 @@ figure{
     flex-direction: column ;
     margin-top: 4% ;
     margin-bottom: 4% ;
+    margin-left: auto ;
+    margin-right: auto ;
     caption{ 
              margin-top: 5% ;
              text-align: center ;
