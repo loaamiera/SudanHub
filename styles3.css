@@ -96,11 +96,13 @@ body{
     .largeImage{
         margin-top: 15% ;
         max-width: 30% ;
+        display: inline-block ;
     }
     
     .largerImage{ 
         margin-top: 15% ;
         max-width: 17% ;
+       display: inline-block ;
         }
         p{
             max-width: 200px; 
