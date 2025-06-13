@@ -13,7 +13,7 @@ body{
                         min-height: 600px ;
                         display: inline-flex;
                         flex-direction: column ;
-                .button{
+                        .button{
                                     font-size: 1.25em ;
                                     border: solid ;
                                     border-width: 10px ;
@@ -25,13 +25,13 @@ body{
         
                     
                     }
-                ul{     
+                    ul{     
                         li a:link {color: black ;}
                         li a:visited {color: rgb(16, 128, 21) ; }
                         li a:hover {color: rgb(0, 199, 6) ;}
                         list-style-type: none;
                        li{
-                           padding: 20px;
+                           padding: 25px;
                        }
                   }
         }
