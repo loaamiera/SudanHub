@@ -15,7 +15,7 @@ body{
                 .button{
                                     font-size: 1.25em ;
                                     border: solid ;
-                                    border-width: 10px ;
+                                    border-width: 5px ;
                                     border-color: rgb(16, 128, 21) ;
                                     box-sizing: border-box ; 
                                     padding: 25px ;
@@ -33,7 +33,7 @@ body{
                         li a:hover {color: rgb(0, 199, 6) ;}
                         list-style-type: none;
                        li{
-                           padding: 25px;
+                           padding: 50px;
                        }
                   }
         }
