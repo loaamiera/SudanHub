@@ -23,6 +23,9 @@ main{
     flex-direction: column ;
 
     nav{
+        display: inline-flex ;
+        flex-direction: column ;
+        margin: auto ;
         vertical-align: middle ;
         .button{
             border: solid ;
