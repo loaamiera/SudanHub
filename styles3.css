@@ -77,13 +77,16 @@ main{
                     float: left !important ;
                     width: 40% ;
                     margin-inline: 5px ;
+                    margin-right: 5px ;
+                    margin-left: 10px ;
                 }
     #right{
                 display: inline-flex;
                 flex-direction: column ;
                 float: right !important ;
                 width: 40% ;
-                margin-inline: 5px ;
+                margin-right: 5px ;
+                margin-left: 10px ;
     }
     .largeImagetop{
         margin-top: 7% ;
