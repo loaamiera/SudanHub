@@ -141,7 +141,13 @@ body{
                 color: rgb(16, 128, 21) ;
                 margin-bottom: 4% ;
                 }
-            
+           .column{
+            display: inline-flex ;
+            flex-direction: column ;
+            vertical-align: middle ;
+            margin: auto ;
+            text-align: center !important ;
+            } 
 
 
     }
@@ -187,10 +193,4 @@ footer{
 .clear{
     clear: both ;
 }
-.column{
-    display: inline-flex ;
-    flex-direction: column ;
-    vertical-align: middle ;
-    margin: auto ;
-    text-align: center !important ;
-    }
+
