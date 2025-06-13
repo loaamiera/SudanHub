@@ -103,8 +103,8 @@ main, body {
     flex-direction: column ;
     float: left !important ;
     width: 40% ;
-    margin-line: 2.5% ;
-    textialign: center ;
+    margin-inline: 2.5% ;
+    text-align: center ;
     }
 .right{
         display: inline-flex ;
