@@ -70,10 +70,12 @@ body{
         .left{
                     float: left !important ;
                     width: 40% ;
+                    margin-left: 5% ;
                 }
         .right{
                 float: right !important ;
                 width: 40% ;
+                margin-right: 5% ;
     }
     
     
