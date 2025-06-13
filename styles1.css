@@ -4,7 +4,6 @@ html{
 
 header{
         text-ailgn: center ;
-        justify-content: center ;
         margin: auto ;
 
     
@@ -19,11 +18,12 @@ body {
     flex-direction: column ;
     margin: auto ;
     text-align: center ;
-    justify-content: center ;
 
 }
 
 p{
+        text-align: center ;
+        margin-inline: auto ;
         max-width: 44% ;
         margin-bottom: 2%  !important;
         }       
@@ -38,13 +38,13 @@ ul{
                     li {
                         padding-block: 10% ;
 }
+}
     
 .button{
                 border: solid ;
                 border-width: 6px ;
                 border-color: rgb(16, 128, 21) ;
                 background-color: white ;
-                text-align: center ;
                 font-size: 1.25em ;
                 }
 
