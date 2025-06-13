@@ -39,7 +39,7 @@ header{
                     list-style-type: none;
                     box-sizing: border-box ; 
                     li{                   
-                         5%;
+                         padding:5%;
 
                         
                       }
