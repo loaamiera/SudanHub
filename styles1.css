@@ -9,7 +9,8 @@ h1,h2,h3{
 body{
         width: 100% ;
         main{
-                    nav{    
+                    nav{
+                        clear: both ;
                         display: inline-flex;
                         flex-direction: column ;
                 .button{
@@ -72,5 +73,5 @@ footer{
 
 
 .clear{
-    clear: both ;
+
     }
