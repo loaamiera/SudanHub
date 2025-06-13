@@ -10,10 +10,21 @@ html{
     
     }
 
-h1{        
+
+
+header{
+        margin-bottom: 6% ;
+        max-height: 400px ;
+        h1{        
             color: rgb(235, 36, 36) ;
         }
-.buttonHead{
+        img{
+            width: 20% ;
+        }
+        nav{    
+            display: inline-flex;
+            flex-direction: row ;
+            .buttonHead{
                                 border: solid ;
                                 border-width: 5px ;
                                 border-color: rgb(16, 128, 21) ;
@@ -24,15 +35,6 @@ h1{
     
                     
                 }
-header{
-        margin-bottom: 6% ;
-        max-height: 400px ;
-        img{
-            width: 20% ;
-        }
-        nav{    
-            display: inline-flex;
-            flex-direction: row ;
 
             }
             ul{     padding:12.5px;
@@ -62,59 +64,83 @@ header{
                 grid-row: 1 ;
                 }
 }
-body{       display: inline-flex;
-            flex-direction: column ;
-             .left{
+body{       
+        display: inline-flex;
+        flex-direction: column ;
+        .left{
                     float: left !important ;
                     width: 40% ;
                 }
-            .right{
+        .right{
                 float: right !important ;
                 width: 40% ;
     }
-    }
+    
+    
 main{
     min-height: 400px ; 
     .largeImagetop{
     width: 30% ; 
     margin-top: 15% :
     float: right !important ;
-}
-
-.largeImage{
-    width: 30% ; 
-    margin-top: 22% ;
-    float: right !important ;
-}
-
-.largerImage{
-    width: 15% ; 
-    margin-top: 15% ;
-    float: right !important ;
-}
-    nav{    
-            display: inline-flex;
-            flex-direction: column ;
-            .buttonMain{
-                border: solid ;
-                border-width: 6px ;
-                margin-top: 15%  !important;
-                margin-bottom: 15%  !important;
-                border-color: rgb(16, 128, 21) ;
+    }
+    
+    .largeImage{
+        width: 30% ; 
+        margin-top: 22% ;
+        float: right !important ;
+    }
+    
+    .largerImage{
+        width: 15% ; 
+        margin-top: 15% ;
+        float: right !important ;
         }
-            ul{
-            list-style-type: none ;
-            li a:link {color: black ; }
-            li a:visited {color: rgb(16, 128, 21) ; }
-            li a:hover {color: rgb(0, 199, 6) ;}
-            align-items: center ;
-            li{
-                    margin-top: 5% ;
-                    margin-bottom: 5% ;
-                    font-size: 1.25em ;
+        nav{    
+                display: inline-flex;
+                flex-direction: column ;
+                .buttonMain{
+                    border: solid ;
+                    border-width: 6px ;
+                    margin-top: 15%  !important;
+                    margin-bottom: 15%  !important;
+                    border-color: rgb(16, 128, 21) ;
                 }
+                ul{
+                list-style-type: none ;
+                li a:link {color: black ; }
+                li a:visited {color: rgb(16, 128, 21) ; }
+                li a:hover {color: rgb(0, 199, 6) ;}
+                align-items: center ;
+                li{
+                        margin-top: 5% ;
+                        margin-bottom: 5% ;
+                        font-size: 1.25em ;
+                    }
+                }}
+            .largeText{
+                font-size: 2.5em ;
+                color: color: rgb(16, 128, 21) ;
+                text-align: center  ;
+                margin-left: auto ;
+                margin-right: auto ;
+                margin-bottom: 4% ;
+                }
+            
+            .bottomBold{
+                display: flex ;
+                text-align: center ;
+                justify-content: center ;
+                font-size: 1.25em ;
+                color: rgb(252, 237, 0) ;
+                margin-top: 25% ;
+                margin-left: auto ;
+                margin-right: auto ;
+                padding: 2.5% ;
+                width: 75% ;
+                text-shadow: 1.33px 1.33px 1.5px rgb(75, 137, 245) ;
+                background-color: rgb(68, 69, 69) ;
             }
-        }
 
     }
 
@@ -123,23 +149,14 @@ main{
 
 
 
-    
+a{
+        text-decoration: none ;
+        font-style: none ;
+    }    
 
     
 
     
-
-
-    p{
-    text-align: center ;
-    width: 33% ;
-    margin-top: 8% ;
-    margin-bottom: 4%  ;
-    }
-
-
-
-
 
 
 
@@ -156,39 +173,16 @@ footer{
 
 
 
-.bottomBold{
-            display: flex ;
-            text-align: center ;
-            justify-content: center ;
-            font-size: 1.25em ;
-            color: rgb(252, 237, 0) ;
-            margin-top: 25% ;
-            margin-left: auto ;
-            margin-right: auto ;
-            padding: 2.5% ;
-            width: 75% ;
-            text-shadow: 1.33px 1.33px 1.5px rgb(75, 137, 245) ;
-            background-color: rgb(68, 69, 69) ;
-        }
 
 
 
 
 
-a{
-        text-decoration: none ;
-        font-style: none ;
-    }
 
 
-.largeText{
-    font-size: 2.5em ;
-    color: color: rgb(16, 128, 21) ;
-    text-align: center  ;
-    margin-left: auto ;
-    margin-right: auto ;
-    margin-bottom: 4% ;
-    }
+
+
+
 .clear{
     clear: both ;
 }
