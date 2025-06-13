@@ -10,6 +10,7 @@ body{
         width: 100% ;
         main{
                     nav{
+                        min-height: 400px ;
                         display: inline-flex;
                         flex-direction: column ;
                 .button{
