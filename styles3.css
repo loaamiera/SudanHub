@@ -23,10 +23,11 @@ header{
                                 border: solid ;
                                 border-width: 4.5px ;
                                 border-color: rgb(16, 128, 21) ;
-                                padding: 5% ;
+                                box-sizing: border-box ; 
+                                padding: 15px ;
                                 width: 600px ;
                                 height: 300px ;
-                                box-sizing: border-box ; 
+    
                     
                 }
 
