@@ -76,31 +76,29 @@ main{
                     flex-direction: column ;
                     float: left !important ;
                     width: 40% ;
-                    padding: 5px ;
+                    padding-left: 5px ;
                 }
     #right{
                 display: inline-flex;
                 flex-direction: column ;
                 float: right !important ;
                 width: 40% ;
-                padding: 5px ;
+                padding-right: 5px ;
     }
     .largeImagetop{
-        margin-top: 10% ;
+        margin-top: 7% ;
         float: right ;
         max-width: 27.5% ;
     }
     
     .largeImage{
         margin-top: 15% ;
-        padding: 15px ;
         float: right ;
         max-width: 30% ;
     }
     
     .largerImage{ 
         margin-top: 15% ;
-        padding: 15px ;
         float: right ;
         max-width: 22.5% ;
         }
