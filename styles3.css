@@ -87,17 +87,20 @@ main{
     }
     .largeImagetop{
         padding: 15px ;
+        margin-top: 15% ;
         float: right !important ;
         max-width: 22.5% ;
     }
     
     .largeImage{
+        margin-top: 15% ;
         padding: 15px ;
         float: right !important ;
         max-width: 25% ;
     }
     
     .largerImage{ 
+        margin-top: 5% ;
         padding: 5px ;
         float: right !important ;
         max-width: 17.5% ;
@@ -132,6 +135,11 @@ main{
                 margin-bottom: 4% ;
                 }
             
+
+
+    }
+
+
             .bottomBold{
                 text-align: center ;
                 font-size: 1.25em ;
@@ -143,12 +151,7 @@ main{
                 width: 75% ;
                 text-shadow: 1.33px 1.33px 1.5px rgb(75, 137, 245) ;
                 background-color: rgb(68, 69, 69) ;
-            }
-
-    }
-
-
-    
+            }    
 
 
 
