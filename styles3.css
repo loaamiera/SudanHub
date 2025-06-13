@@ -42,7 +42,9 @@ header{
                 }
         }
 main{
-    min-height: 400px ; }
+    min-height: 400px ; 
+    margin: auto ;
+    }
 main, body {
     nav{    
             display: inline-flex;
