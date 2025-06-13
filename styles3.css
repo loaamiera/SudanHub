@@ -83,19 +83,19 @@ main{
     min-height: 400px ; 
     .largeImagetop{
         width: 30% ; 
-        margin-top: 15% ;
+        padding: 35px ;
         float: right !important ;
     }
     
     .largeImage{
         width: 30% ; 
-        margin-top: 22% ;
+        padding: 25px ;
         float: right !important ;
     }
     
     .largerImage{
         width: 15% ; 
-        margin-top: 15% ;
+        padding: 15px ;
         float: right !important ;
         }
         nav{    
