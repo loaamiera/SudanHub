@@ -82,19 +82,16 @@ body{
 main{
     min-height: 400px ; 
     .largeImagetop{
-        width: 30% ; 
         padding: 35px ;
         float: right !important ;
     }
     
     .largeImage{
-        width: 30% ; 
         padding: 25px ;
         float: right !important ;
     }
     
-    .largerImage{
-        width: 15% ; 
+    .largerImage{ 
         padding: 15px ;
         float: right !important ;
         }
