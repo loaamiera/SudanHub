@@ -17,6 +17,7 @@ header{
 
 main{ 
     text-align: center ;
+    margin: auto ;
     vertical-align: center ;
     display: inline-flex ;
     flex-direction: column ;
