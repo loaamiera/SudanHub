@@ -83,10 +83,8 @@ a{
 
 
 figure{
-    margin-top: 4% ;
-    margin-bottom: 4% ;
+    padding: 5% ;
     figcaption{ 
-             margin-top: 5% ;
              font-size: 0.75em ; 
            }
      }
@@ -97,11 +95,6 @@ figure{
     }
 
 
-
-.column{
-
-    padding-top: 5% ;
-    }
 .clear{
     clear: clear ;
     }
