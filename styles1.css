@@ -6,14 +6,15 @@ h1,h2,h3{
         margin-bottom: 2% !important;
         color: rgb(235, 36, 36) ;
         }
-
+body{
+        width: 100% ;
+}
 .column{
     display: inline-flex ;
     flex-direction: column ;
     margin: auto ;
     text-align: center ;
     vertical-align: center ;
-    width: 100% ;
     }
 
 
