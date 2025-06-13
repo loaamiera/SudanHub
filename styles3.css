@@ -23,8 +23,6 @@ header{
                                 border: solid ;
                                 border-width: 4.5px ;
                                 border-color: rgb(16, 128, 21) ;
-                                width: 1600px ;
-                                height: 800px ;
                     
                 }
 
@@ -35,7 +33,8 @@ header{
                     li a:hover {color: rgb(235, 36, 36) ;}
                     list-style-type: none;
                     li{
-                        
+                        width: 1600px ;
+                        height: 800px ;                        
                         padding: 5% ;
                         
                       }
