@@ -80,24 +80,18 @@ body{
 main{
     min-height: 400px ; 
     .largeImagetop{
-    display: inline-flex;
-    flex-direction: column ;
-    width: 30% ; 
-    margin-top: 15% ;
-    float: right !important ;
+        width: 30% ; 
+        margin-top: 15% ;
+        float: right !important ;
     }
     
     .largeImage{
-        display: inline-flex;
-        flex-direction: column ;
         width: 30% ; 
         margin-top: 22% ;
         float: right !important ;
     }
     
     .largerImage{
-        display: inline-flex;
-        flex-direction: column ;
         width: 15% ; 
         margin-top: 15% ;
         float: right !important ;
