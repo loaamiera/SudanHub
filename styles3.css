@@ -45,11 +45,36 @@ header{
                 }
         }
 }
-body{        display: inline-flex;
+body{       display: inline-flex;
             flex-direction: column ;
     }
 main{
     min-height: 400px ; 
+    .left{
+    float: left !important ;
+    width: 40% ;
+    }
+    .right{
+        float: right !important ;
+        width: 40% ;
+    }
+    .largeImagetop{
+    width: 30% ; 
+    margin-top: 15% :
+    float: right !important ;
+}
+
+.largeImage{
+    width: 30% ; 
+    margin-top: 22% ;
+    float: right !important ;
+}
+
+.largerImage{
+    width: 15% ; 
+    margin-top: 15% ;
+    float: right !important ;
+}
     nav{    
             display: inline-flex;
             flex-direction: column ;
@@ -100,29 +125,20 @@ main{
     
 
     
-.left{
-    float: left !important ;
-    width: 40% ;
-    margin-left: 2.5% ;
-    }
-.right{
-        float: right !important ;
-        width: 40% ;
-        margin-right: 2.5% ;
-    }
+
     
 
 
-
-
-
-
-p{
+    p{
     text-align: center ;
     width: 33% ;
     margin-top: 8% ;
     margin-bottom: 4%  ;
-}
+    }
+
+
+
+
 
 
 
@@ -156,23 +172,7 @@ footer{
 
 
 
-.largeImagetop{
-    width: 30% ; 
-    margin-top: 15% :
-    float: right !important ;
-}
 
-.largeImage{
-    width: 30% ; 
-    margin-top: 22% ;
-    float: right !important ;
-}
-
-.largerImage{
-    width: 15% ; 
-    margin-top: 15% ;
-    float: right !important ;
-}
 
 a{
         text-decoration: none ;
