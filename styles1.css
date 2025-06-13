@@ -21,6 +21,9 @@ body {
     flex-direction: column ;
     margin: auto ;
     text-align: center ;
+    .largeImage{
+            width: 25% ; 
+            }
     p{
         text-align: center ;
         margin-inline: auto ;
@@ -28,15 +31,18 @@ body {
         margin-bottom: 2%  !important;
         }
     nav{
-        text-align: center ; 
-        .button{
+        a{
+            text-decoration: none ;
+            font-style: none ;
+        }
+        ul{    
+            .button{
                 border: solid ;
                 border-width: 6px ;
                 border-color: rgb(16, 128, 21) ;
                 background-color: white ;
                 font-size: 1.25em ;
-                }}
-    ul{    
+                }
                     list-style-type: none;
                     li a:link {color: black ;}
                     li a:visited {color: rgb(16, 128, 21) ;}
@@ -46,6 +52,7 @@ body {
                     }
     }
 
+}
 }
 
        
@@ -71,14 +78,8 @@ footer{
 
 
 
-.largeImage{
-    width: 25% ; 
-}
 
-a{
-        text-decoration: none ;
-        font-style: none ;
-    }
+
 
 
 
