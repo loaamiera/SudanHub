@@ -33,7 +33,7 @@ body{
                         li a:hover {color: rgb(0, 199, 6) ;}
                         list-style-type: none;
                        li{
-                           padding: 50px;
+                           padding: 25px;
                        }
                   }
         }
