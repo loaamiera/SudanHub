@@ -67,10 +67,10 @@ header{
 }
 body{       
 
+    width: 100% ;
     
-    
-main{
-    min-height: 800px ; 
+    main{
+        min-height: 800px ; 
     .left{
                     display: inline-flex;
                     flex-direction: column ;
