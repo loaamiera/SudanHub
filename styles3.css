@@ -45,12 +45,11 @@ header{
                 }
         }
 }
+body{        display: inline-flex;
+            flex-direction: column ;
+    }
 main{
     min-height: 400px ; 
-    }
-body{
-}
-main {
     nav{    
             display: inline-flex;
             flex-direction: column ;
@@ -102,16 +101,11 @@ main {
 
     
 .left{
-    display: inline-flex ;
-    flex-direction: column ;
     float: left !important ;
     width: 40% ;
     margin-left: 2.5% ;
-    text-align: center ;
     }
 .right{
-        display: inline-flex ;
-        flex-direction: column ;
         float: right !important ;
         width: 40% ;
         margin-right: 2.5% ;
