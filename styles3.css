@@ -23,8 +23,8 @@ header{
                                 border: solid ;
                                 border-width: 4.5px ;
                                 border-color: rgb(16, 128, 21) ;
-                                width: 400px ;
-                                height: 200px ;
+                                width: 800px ;
+                                height: 400px ;
                     
                 }
 
@@ -44,8 +44,6 @@ header{
 main{
     min-height: 400px ; }
 main, body {
-            display: inline-flex;
-            flex-direction: column ;
     nav{    
             display: inline-flex;
             flex-direction: column ;
