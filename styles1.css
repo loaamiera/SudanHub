@@ -18,11 +18,11 @@ header{
 main{ 
     text-align: center ;
     margin: auto ;
-    vertical-align: center ;
     display: inline-flex ;
     flex-direction: column ;
 
     nav{
+        vertical-align: center ;
         .button{
             border: solid ;
             border-width: 6px ;
