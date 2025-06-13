@@ -15,11 +15,11 @@ body{
                 .button{
                                     font-size: 1.25em ;
                                     border: solid ;
-                                    border-width: 5px ;
+                                    border-width: 10px ;
                                     border-color: rgb(16, 128, 21) ;
                                     box-sizing: border-box ; 
                                     padding: 25px ;
-                                    width: 100px ;
+                                    width: 125px ;
                                     height: 25px ;
         
                     
