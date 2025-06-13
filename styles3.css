@@ -76,17 +76,16 @@ main{
                     flex-direction: column ;
                     float: left !important ;
                     width: 40% ;
-                    margin-inline: 5px ;
-                    margin-right: 15px ;
-                    margin-left: 10px ;
+                    margin-right: 105px ;
+                    margin-left: 100px ;
                 }
     #right{
                 display: inline-flex;
                 flex-direction: column ;
                 float: right !important ;
                 width: 40% ;
-                margin-right: 10px ;
-                margin-left: 15px ;
+                margin-right: 100px ;
+                margin-left: 150px ;
     }
     .largeImagetop{
         margin-top: 7% ;
