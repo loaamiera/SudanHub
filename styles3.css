@@ -47,17 +47,17 @@ header{
 }
 body{       display: inline-flex;
             flex-direction: column ;
+             .left{
+                    float: left !important ;
+                    width: 40% ;
+                }
+            .right{
+            float: right !important ;
+            width: 40% ;
+    }
     }
 main{
     min-height: 400px ; 
-    .left{
-    float: left !important ;
-    width: 40% ;
-    }
-    .right{
-        float: right !important ;
-        width: 40% ;
-    }
     .largeImagetop{
     width: 30% ; 
     margin-top: 15% :
