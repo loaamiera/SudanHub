@@ -12,7 +12,7 @@ body{
                     nav{    
                         display: inline-flex;
                         flex-direction: column ;
-                .buttonHead{
+                .button{
                                     border: solid ;
                                     border-width: 10px ;
                                     border-color: rgb(16, 128, 21) ;
@@ -21,11 +21,12 @@ body{
                                     width: 300px ;
                                     height: 50px ;
         
-                        
+                    
                     }
     
                 }
-                ul{     padding:25px;
+                ul{     
+                        padding:25px;
                         li a:link {color: black ;}
                         li a:visited {color: rgb(16, 128, 21) ; }
                         li a:hover {color: rgb(0, 199, 6) ;}
