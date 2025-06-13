@@ -55,7 +55,6 @@ main {
     nav{    
             display: inline-flex;
             flex-direction: column ;
-            margin:auto ;
             .buttonMain{
                 border: solid ;
                 border-width: 6px ;
@@ -64,7 +63,6 @@ main {
                 border-color: rgb(16, 128, 21) ;
         }
             ul{
-            margin:auto ;
             list-style-type: none ;
             li a:link {color: black ; }
             li a:visited {color: rgb(16, 128, 21) ; }
