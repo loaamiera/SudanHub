@@ -48,7 +48,10 @@ header{
 main{
     min-height: 400px ; 
     }
-main, body {
+body{
+    margin: auto ;
+}
+main {
     nav{    
             display: inline-flex;
             flex-direction: column ;
