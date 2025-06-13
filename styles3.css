@@ -65,14 +65,16 @@ header{
                 }
 }
 body{       
-        display: inline-flex;
-        flex-direction: column ;
         .left{
+                    display: inline-flex;
+                    flex-direction: column ;
                     float: left !important ;
                     width: 40% ;
                     margin-left: 5% ;
                 }
         .right{
+                display: inline-flex;
+                flex-direction: column ;
                 float: right !important ;
                 width: 40% ;
                 margin-right: 5% ;
