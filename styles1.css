@@ -63,6 +63,7 @@ figcaption{
 
 #largeImage{
     padding: 2.5px ;
+    display: inline-block ;
 }
 
 footer{
