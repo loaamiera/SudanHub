@@ -13,7 +13,7 @@ html{
 
 
 header{
-        margin-bottom: 20px ;
+        margin-bottom: 10px ;
         max-height: 400px ;
         h1{        
             color: rgb(235, 36, 36) ;
@@ -105,7 +105,7 @@ body{
         float: right ;
         }
         p{
-            max-width: 200px; 
+            max-width: 33%; 
             }
         nav{
                         min-height: 400px ;
