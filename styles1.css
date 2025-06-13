@@ -19,11 +19,13 @@ body{
     text-align: center ;
     main{ 
         p{
+        text-align: center ;
         max-width: 44% ;
         margin-bottom: 2%  !important;
         }
     
         nav{
+             
             .button{
                 border: solid ;
                 border-width: 6px ;
