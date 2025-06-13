@@ -192,7 +192,7 @@ a{
 .largeText{
     font-size: 2.5em ;
     color: color: rgb(16, 128, 21) ;
-    text-align: center !important;
+    text-align: center  ;
     margin-left: auto ;
     margin-right: auto ;
     margin-bottom: 4% ;
