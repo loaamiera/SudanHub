@@ -16,13 +16,12 @@ header{
 
 
 main{ 
-
+    text-align: center ;
+    vertical-align: center ;
     display: inline-flex ;
     flex-direction: column ;
 
     nav{
-        display: inline-flex ;
-        flex-direction: column ;
         .button{
             border: solid ;
             border-width: 6px ;
@@ -53,8 +52,6 @@ p{
     margin: auto ;
     text-align:  center ;
     max-width: 44% ;
-    margin-left: auto ;
-    margin-right: auto ;
     margin-bottom: 2%  !important;
 }
 
@@ -81,8 +78,8 @@ a{
 
 
 video{
-    display: inline-flex ;
-    flex-direction: column ; }
+    
+}
 
 
 
