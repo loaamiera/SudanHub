@@ -12,8 +12,7 @@ header{
     
 }
 
-body{   
-    margin: auto ; }
+
 
 
 main{ 
@@ -81,8 +80,6 @@ a{
 
 
 figure{
-    display: inline-flex ;
-    flex-direction: column ;
     margin-top: 4% ;
     margin-bottom: 4% ;
     margin-left: auto ;
