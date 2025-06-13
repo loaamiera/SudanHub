@@ -44,6 +44,23 @@ header{
                        padding: 12.5px;
                 }
         }
+        .leftHead{
+                grid-column: 1 ;
+                grid-row: 1 ;
+                margin: auto ;
+                }
+    .middleHead{
+                grid-column: 2 ;
+                grid-row: 1 ;
+                margin: auto ;
+                }
+    .rightHead{
+                display: inline-flex !important ;
+                flex-direction: row !important ;
+                margin: auto ;
+                grid-column: 3 ;
+                grid-row: 1 ;
+                }
 }
 body{       display: inline-flex;
             flex-direction: column ;
@@ -52,8 +69,8 @@ body{       display: inline-flex;
                     width: 40% ;
                 }
             .right{
-            float: right !important ;
-            width: 40% ;
+                float: right !important ;
+                width: 40% ;
     }
     }
 main{
@@ -102,23 +119,7 @@ main{
     }
 
 
-.leftHead{
-            grid-column: 1 ;
-            grid-row: 1 ;
-            margin: auto ;
-            }
-.middleHead{
-            grid-column: 2 ;
-            grid-row: 1 ;
-            margin: auto ;
-            }
-.rightHead{
-            display: inline-flex !important ;
-            flex-direction: row !important ;
-            margin: auto ;
-            grid-column: 3 ;
-            grid-row: 1 ;
-            }    
+    
 
 
 
