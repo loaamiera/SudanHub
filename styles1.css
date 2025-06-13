@@ -5,9 +5,8 @@ html{
 header{
         display: inline-flex ;
         flex-direction: column ;
-        text-align: center ;
+        text-align: center !important ;
         margin: auto ;
-        vertical-align:  midddle ;
     h1,h2,h3{
         margin-bottom: 2% !important;
         color: rgb(235, 36, 36) ;
@@ -18,15 +17,13 @@ header{
 
 
 body {
-    display: inline-flex ;
+    display: inline-flex !important ;
     flex-direction: column ;
     margin: auto ;
     text-align: center ;
-    vertical-align:  midddle ;
 
     p{
         text-align: center ;
-        margin-inline: auto ;
         margin-bottom: 2%  !important;
         }
     nav{
@@ -51,9 +48,8 @@ body {
                     }
     }
     figure{
-    width: 25% ;
     figcaption{ 
-            padding: 5% ;
+            padding: 10px ;
              font-size: 0.75em ; 
            }
      }
