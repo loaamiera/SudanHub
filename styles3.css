@@ -50,6 +50,7 @@ main{
     }
 body{
     margin: auto ;
+    gap: 10% ;
 }
 main {
     nav{    
