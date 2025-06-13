@@ -42,8 +42,9 @@ p{
                     }
     }
     figure{
-        width: 33% ;
-        display: inline-flex ;
+        img, video {
+            width: 33% ;
+            display: inline-flex ; }
         figcaption{ 
                 padding: 10px ;
                  font-size: 0.75em ; 
