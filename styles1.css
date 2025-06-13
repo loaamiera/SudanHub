@@ -3,6 +3,8 @@ html{
 }
 
 header{
+        display: inline-flex ;
+        flex-direction: column ;
         text-ailgn: center ;
         margin: auto ;
 
@@ -28,11 +30,9 @@ p{
         margin-bottom: 2%  !important;
         }       
 
-script{
-    display: inline-flex ;
-    flex-direction: column ;
-}
 
+nav{
+    text-align: center ; }
 ul{    
                     list-style-type: none;
                     li a:link {color: black ;}
