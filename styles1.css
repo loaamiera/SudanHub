@@ -13,6 +13,7 @@ body{
                     min-height: 800px ;
                     nav{
                         min-height: 400px ;
+                        margin: 10px ;
                         display: inline-flex;
                         flex-direction: column ;
                         .button{
@@ -34,7 +35,7 @@ body{
                         list-style-type: none;
                         text-decoration: none ;
                        li{
-                           padding: 15px;
+                           padding: 35px;
                        }
                     }
                   }
