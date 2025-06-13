@@ -21,6 +21,7 @@ body {
     flex-direction: column ;
     margin: auto ;
     text-align: center ;
+    vertical-align:  midddle ;
     .largeImage{
             width: 25% ;
         
