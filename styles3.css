@@ -165,24 +165,18 @@ footer{
 
 .largeImagetop{
     width: 30% ; 
-    margin-left: auto ;
-    margin-right: auto ;
     margin-top: 9% :
     display: inline-block ;
 }
 
 .largeImage{
     width: 30% ; 
-    margin-left: auto ;
-    margin-right: auto ;
     margin-top: 22% ;
     display: inline-block ;
 }
 
 .largerImage{
     width: 15% ; 
-    margin-left: auto ;
-    margin-right: auto ;
     margin-top: 15% ;
     display: inline-block ;
 }
