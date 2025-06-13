@@ -58,13 +58,15 @@ footer{
     background-color: black ;
     text-align: center ;
     margin-top: 4% ;
-    padding: 2px ;
+    margin-left: 0px ;
+    margin-right: 0px ;
+    word-spacing: 12.5px ;
     color: white ;
 }
 
 
 
-#largeImage{
+.largeImage{
     width: 25% ; 
 }
 
