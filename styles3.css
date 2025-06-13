@@ -71,7 +71,7 @@ body{
     
 main{
     min-height: 800px ; 
-    #left{
+    .left{
                     display: inline-flex;
                     flex-direction: column ;
                     float: left !important ;
@@ -79,7 +79,7 @@ main{
                     margin-right: 105px ;
                     margin-left: 100px ;
                 }
-    #right{
+    .right{
                 display: inline-flex;
                 flex-direction: column ;
                 float: right !important ;
