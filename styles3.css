@@ -76,7 +76,7 @@ main{
                     flex-direction: column ;
                     float: left !important ;
                     width: 40% ;
-                    margin-right: 105px ;
+                    margin-right: 55px ;
                     margin-left: 100px ;
                 }
     .right{
@@ -84,7 +84,7 @@ main{
                 flex-direction: column ;
                 float: right !important ;
                 width: 40% ;
-                margin-right: 10px ;
+                margin-right: 55px ;
                 margin-left: 105px ;
     }
     .largeImagetop{
