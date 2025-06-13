@@ -8,6 +8,7 @@ h1,h2,h3{
         }
 
         main{
+                    width: 100% ;
                     
                     nav{
                         min-height: 600px ;
