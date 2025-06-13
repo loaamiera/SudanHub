@@ -87,23 +87,23 @@ main{
     }
     .largeImagetop{
         padding: 15px ;
-        margin-top: 25% ;
+        margin-top: 15% ;
         float: right ;
-        max-width: 22.5% ;
+        max-width: 27.5% ;
     }
     
     .largeImage{
-        margin-top: 25% ;
+        margin-top: 15% ;
         padding: 15px ;
         float: right ;
-        max-width: 25% ;
+        max-width: 30% ;
     }
     
     .largerImage{ 
         margin-top: 15% ;
-        padding: 5px ;
+        padding: 15px ;
         float: right ;
-        max-width: 17.5% ;
+        max-width: 22.5% ;
         }
         p{
             max-width: 200px; 
