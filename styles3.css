@@ -26,7 +26,7 @@ header{
                                 border-color: rgb(16, 128, 21) ;
                                 padding: 12.5px ;
                                 width: 150px ;
-                                height: 50px ;
+                                height: 40px ;
                                 box-sizing: border-box ; 
     
                     
@@ -39,8 +39,7 @@ header{
                     li a:hover {color: rgb(235, 36, 36) ;}
                     list-style-type: none;
                     li{                   
-                         padding:5%;
-
+                         padding:25px;
                         
                       }
                 }
