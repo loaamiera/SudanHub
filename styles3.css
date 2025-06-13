@@ -50,7 +50,6 @@ main{
     }
 body{
     margin: auto ;
-    gap: 10% ;
 }
 main {
     nav{    
@@ -108,7 +107,7 @@ main {
     flex-direction: column ;
     float: left !important ;
     width: 40% ;
-    margin-inline: 2.5% ;
+    margin-left: 2.5% ;
     text-align: center ;
     }
 .right{
@@ -116,7 +115,7 @@ main {
         flex-direction: column ;
         float: right !important ;
         width: 40% ;
-        margin-inline: 2.5% ;
+        margin-right: 2.5% ;
     }
     
 
@@ -135,11 +134,12 @@ p{
 
 
 footer{
+    word-spacing: 12.5px ;
     background-color: black ;
     color: white ;
     float: bottom ;
     margin-top: 4% ;
-    text-align: center ;
+    text-align: center     
     
 }
 
