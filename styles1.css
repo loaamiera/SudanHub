@@ -19,7 +19,7 @@ body{
                                     border-color: rgb(16, 128, 21) ;
                                     box-sizing: border-box ; 
                                     padding: 25px ;
-                                    width: 125px ;
+                                    width: 150px ;
                                     height: 25px ;
         
                     
@@ -27,13 +27,13 @@ body{
     
                 }
                 ul{     
-                        padding:25px;
+                        padding:10px;
                         li a:link {color: black ;}
                         li a:visited {color: rgb(16, 128, 21) ; }
                         li a:hover {color: rgb(0, 199, 6) ;}
                         list-style-type: none;
                        li{
-                           padding: 25px;
+                           padding: 12.5px;
                        }
                   }
         }
