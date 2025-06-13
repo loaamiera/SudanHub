@@ -112,7 +112,7 @@ body{
                         margin: 10px ;
                         display: inline-flex;
                         flex-direction: column ;
-                        .button{
+                        .buttonMain{
                                     font-size: 1.25em ;
                                     border: solid ;
                                     border-width: 10px ;
