@@ -113,7 +113,7 @@ body{
                         margin: auto;
                         display: inline-flex;
                         flex-direction: column ;
-                        .button{
+                        .buttonMain{
                                     font-size: 1.25em ;
                                     border: solid ;
                                     border-width: 10px ;
@@ -124,7 +124,7 @@ body{
                                     height: 20px ;
         
                     
-                    }
+                    } ;
                   }
                 ul{     
                         li a:link {color: black ;}
@@ -133,7 +133,7 @@ body{
                         list-style-type: none;
                         li{
                              padding: 35px;
-                       }
+                       } 
                     }
         }
               
@@ -146,7 +146,7 @@ a{
                 font-size: 2.5em ;
                 color: rgb(16, 128, 21) ;
                 margin-bottom: 4% ;
-                }
+                } ;
 
 
 
