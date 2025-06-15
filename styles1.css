@@ -34,8 +34,8 @@ body{
                         li a:hover {color: rgb(0, 199, 6) ;}
                         li{
                             list-style-type: none ;
-                            text-decoration: none  ;
-                           padding: 35px;
+                            font-style: none  ;
+                             padding: 35px;
                        }
                     }
                   }
