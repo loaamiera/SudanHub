@@ -10,5 +10,5 @@ flag.onmouseover = function different() {
 
 flag.onclick = function back() {
       flag.src = 'flag.png' ;
-}
+} ;
 
