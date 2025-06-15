@@ -13,7 +13,7 @@ html{
 
 
 header{
-        display: inline-flex ;
+        display: grid ;
         max-height: 400px ;
         h1{        
             color: rgb(235, 36, 36) ;
@@ -70,6 +70,7 @@ header{
 body{       
     vertical-align: middle ;
     margin: auto ;
+    
     main{
         min-height: 800px ; 
     .left{
@@ -109,10 +110,10 @@ body{
             }
         nav{
                         min-height: 400px ;
-                        margin: auto ;
+                        margin: auto;
                         display: inline-flex;
                         flex-direction: column ;
-                        .buttonMain{
+                        .button{
                                     font-size: 1.25em ;
                                     border: solid ;
                                     border-width: 10px ;
@@ -124,17 +125,18 @@ body{
         
                     
                     }
-            ul{     
+                    ul{     
                         li a:link {color: black ;}
                         li a:visited {color: rgb(16, 128, 21) ; }
                         li a:hover {color: rgb(0, 199, 6) ;}
-                        list-style-type: none;
-                        text-decoration: none ;
-                        text-align: center ;
-                       li{
-                           padding: 35px;
+                        li{
+                             padding: 35px;
                        }
                     }
+                  }
+        }
+              
+}
                   }
             .largeText{
                 font-size: 2.5em ;
