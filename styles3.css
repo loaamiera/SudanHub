@@ -109,11 +109,11 @@ body{
             max-width: 33%; 
             }
         nav{
-                        min-height: 400px ;
-                        margin: auto;
-                        display: inline-flex;
-                        flex-direction: column ;
-                        .buttonMain{
+                    vertical-align: middle ;
+                    min-height: 400px ;
+                    text-align: center ;
+                    margin: auto;
+                     .buttonMain{
                                     font-size: 1.25em ;
                                     border: solid ;
                                     border-width: 10px ;
