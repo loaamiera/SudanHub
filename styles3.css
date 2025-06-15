@@ -15,6 +15,7 @@ html{
 header{
         display: grid ;
         max-height: 400px ;
+        width: 100% ;
         h1{        
             color: rgb(235, 36, 36) ;
         }
@@ -67,8 +68,10 @@ header{
         width: 15% ;
     }
 }
+
 body{       
     vertical-align: middle ;
+    text-align: center ;
     margin: auto ;
     width: 100% ;
     main{
@@ -125,7 +128,6 @@ body{
         
                     
                     } ;
-                  }
                 ul{     
                         li a:link {color: black ;}
                         li a:visited {color: rgb(16, 128, 21) ; }
