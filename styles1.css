@@ -41,8 +41,10 @@ body{
               
 }
 a{
-        list-style-type: none ;
-        font-style: none  ; }
+        text-decoration: none ;
+        font-style: none ;
+    }    
+
 .column{
     display: inline-flex ;
     flex-direction: column ;
