@@ -35,15 +35,14 @@ body{
                         li{
                              padding: 35px;
                        }
-                    a{
-                            list-style-type: none ;
-                            font-style: none  ; }
                     }
                   }
         }
               
 }
-
+a{
+        list-style-type: none ;
+        font-style: none  ; }
 .column{
     display: inline-flex ;
     flex-direction: column ;
