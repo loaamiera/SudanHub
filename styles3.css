@@ -69,7 +69,7 @@ header{
 }
 body{       
 
-    
+    margin: auto ;
     main{
         min-height: 800px ; 
     .left{
