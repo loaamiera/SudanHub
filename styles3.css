@@ -137,31 +137,30 @@ body{
                     }
         }
               
-}
 a{
         text-decoration: none ;
         font-style: none ;
     }   
-                  }
-            .largeText{
+
+        .largeText{
                 font-size: 2.5em ;
                 color: rgb(16, 128, 21) ;
                 margin-bottom: 4% ;
                 }
-           .column{
+
+
+
+    }
+}
+
+.column{
             display: inline-flex ;
             flex-direction: column ;
             vertical-align: middle ;
             margin: auto ;
             text-align: center !important ;
             } 
-
-
-    }
-}
-
-
-            .bottomBold{
+.bottomBold{
                 text-align: center ;
                 font-size: 1.25em ;
                 color: rgb(252, 237, 0) ;
