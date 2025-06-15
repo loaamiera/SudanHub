@@ -87,9 +87,7 @@ body{
                 display: inline-flex;
                 flex-direction: column ;
                 float: right !important ;
-                width: 40% ;
-                vertical-align: right ;
-    }
+                width: 40% ;}
     
     .largeImagetop{
         margin-top: 11% ;
