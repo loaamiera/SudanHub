@@ -68,7 +68,7 @@ header{
     }
 }
 body{       
-
+    vertical-align: middle ;
     margin: auto ;
     main{
         min-height: 800px ; 
